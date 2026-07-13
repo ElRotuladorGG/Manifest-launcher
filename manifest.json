@@ -1,0 +1,1486 @@
+{
+  "modpack_version": "6.0.0",
+  "minecraft_version": "1.21.1",
+  "loader": "neoforge",
+  "loader_version": "21.1.228",
+  "server_ip": "CAMBIAR_IP_O_DOMINIO:25565",
+  "mods": [
+    {
+      "name": "Abridged",
+      "filename": "abridged-2.0.1-neoforge-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7731/823/abridged-2.0.1-neoforge-1.21.1.jar",
+      "sha256": "84e82526f0887ea8166e806d316b0fa977ee94f01fc24fb62a53f055d95ba22c"
+    },
+    {
+      "name": "Accessories Compatibility Layer",
+      "filename": "accessories_compat_layer-neoforge-0.1.12+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7585/673/accessories_compat_layer-neoforge-0.1.12%2b1.21.1.jar",
+      "sha256": "d9b673ebc4766a59663e4cc73d50e0ff3a371334e599c7890941e6e0bdd286ae"
+    },
+    {
+      "name": "Accessories",
+      "filename": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7583/320/accessories-neoforge-1.1.0-beta.53%2b1.21.1.jar",
+      "sha256": "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0"
+    },
+    {
+      "name": "Achievements Optimizer",
+      "filename": "AchievementOptimizer-neoforge-1.21.1-2.1.0.jar",
+      "url": "https://edge.forgecdn.net/files/6897/792/AchievementOptimizer-neoforge-1.21.1-2.1.0.jar",
+      "sha256": "0002360b2c372bf99dbfa4ba5b613c87da1893d9abc5417137710e268ff22522"
+    },
+    {
+      "name": "Advanced Loot Info (ALI)",
+      "filename": "AdvancedLootInfo-neoforge-1.21.1-1.10.0.jar",
+      "url": "https://edge.forgecdn.net/files/8002/71/AdvancedLootInfo-neoforge-1.21.1-1.10.0.jar",
+      "sha256": "e67a762e468fb82b0996dd0e708f943e87f8afae3cb1769ccae522e9184a69dd"
+    },
+    {
+      "name": "Adventure Dungeons",
+      "filename": "adventuredungeons-neoforge-1.21-1.3.1.jar",
+      "url": "https://edge.forgecdn.net/files/5808/396/adventuredungeons-neoforge-1.21-1.3.1.jar",
+      "sha256": "a5ae9687c37ab5a383d1b3a5a6f46a0b8bdeb3aca643745323c3b78c6ca6c347"
+    },
+    {
+      "name": "Alloy Smelter",
+      "filename": "alloy_smelter-neoforge-1.21.1-1.2.1.jar",
+      "url": "https://edge.forgecdn.net/files/7335/117/alloy_smelter-neoforge-1.21.1-1.2.1.jar",
+      "sha256": "a7203483a0c66054c0c4b26bb932f0ab9f045f729ed2eddfe3a80064182f5ae5"
+    },
+    {
+      "name": "AllTheLeaks (Memory Leak Fix)",
+      "filename": "alltheleaks-1.1.8+1.21.1-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/7955/700/alltheleaks-1.1.8%2b1.21.1-neoforge.jar",
+      "sha256": "166624c4a978fd1c8f4ad68b07a19d89c1496911450faed4df137c67e1676611"
+    },
+    {
+      "name": "Alternate Current",
+      "filename": "alternate_current-mc1.21-1.9.0.jar",
+      "url": "https://edge.forgecdn.net/files/5665/477/alternate_current-mc1.21-1.9.0.jar",
+      "sha256": "d23731fcb31cf561544fd7a97b0076b3abb42a0ece0631f86de9a1425fe046f5"
+    },
+    {
+      "name": "AppleSkin",
+      "filename": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "url": "https://edge.forgecdn.net/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "sha256": "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df"
+    },
+    {
+      "name": "Archers (RPG Series)",
+      "filename": "archers-neoforge-2.7.0+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7690/243/archers-neoforge-2.7.0%2b1.21.1.jar",
+      "sha256": "1b66fdd54d4e4979dad6882f88810bf3317e45e7d32b5aa52982a3332407ffb2"
+    },
+    {
+      "name": "Architectury API",
+      "filename": "architectury-13.0.8-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/5786/327/architectury-13.0.8-neoforge.jar",
+      "sha256": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
+    },
+    {
+      "name": "Armageddon",
+      "filename": "Armageddon for 1.21.1 (v2.0.8c) - The Madness Update.jar",
+      "url": "https://edge.forgecdn.net/files/7045/393/Armageddon%20for%201.21.1%20(v2.0.8c)%20-%20The%20Madness%20Update.jar",
+      "sha256": "0d66caa3cdff999560c2acd9306c9eafcaa3868bef0272b51840cdae594f96a7"
+    },
+    {
+      "name": "guy's Armor HUD",
+      "filename": "armor_hud-neoforge-1.1.1+mc1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7689/623/armor_hud-neoforge-1.1.1%2bmc1.21.1.jar",
+      "sha256": "83a84a228f1ac7be279e7a5cdc9cac2130fd4109fd3735d4e9b56424cf94e141"
+    },
+    {
+      "name": "Arsenal (RPG Series)",
+      "filename": "arsenal-neoforge-1.4.2+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7709/181/arsenal-neoforge-1.4.2%2b1.21.1.jar",
+      "sha256": "256a745bf62ba9fb44b9bd3b7c95e35ec91d8336f379d9d2b7ac1fb52ee632c2"
+    },
+    {
+      "name": "Artifacts",
+      "filename": "artifacts-neoforge-13.2.1.jar",
+      "url": "https://edge.forgecdn.net/files/7875/426/artifacts-neoforge-13.2.1.jar",
+      "sha256": "4a8e1f4d5702937a707861e478829695e432286bcd9e58f5834d82c6d998eea8"
+    },
+    {
+      "name": "ATi Structures - Vanilla Edition",
+      "filename": "ATi Structures Vanilla V1.4.4 (1.21+).jar",
+      "url": "https://edge.forgecdn.net/files/7763/363/ATi%20Structures%20Vanilla%20V1.4.4%20(1.21%2b).jar",
+      "sha256": "00007a7ff389e425d6d6d26f5bb2ad0c61f2e10d162567d6dd1767e137125035"
+    },
+    {
+      "name": "AttributeFix",
+      "filename": "attributefix-neoforge-1.21.1-21.1.3.jar",
+      "url": "https://edge.forgecdn.net/files/7115/922/attributefix-neoforge-1.21.1-21.1.3.jar",
+      "sha256": "b2b20f3d44e824071284c14de3f4d3323d420e1c450040b339a5c37d2c382ad4"
+    },
+    {
+      "name": "AzureLib Armor",
+      "filename": "azurelibarmor-neo-1.21.1-3.1.3.jar",
+      "url": "https://edge.forgecdn.net/files/7797/728/azurelibarmor-neo-1.21.1-3.1.3.jar",
+      "sha256": "7d95ea861c06ed99ee75d1da9a6a7a61b5d8fdd8f476a0df5e8d76b84796dcd0"
+    },
+    {
+      "name": "BadOptimizations",
+      "filename": "BadOptimizations-2.4.1-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7338/300/BadOptimizations-2.4.1-1.21.1.jar",
+      "sha256": "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba"
+    },
+    {
+      "name": "BaguetteLib",
+      "filename": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "url": "https://edge.forgecdn.net/files/7880/467/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "sha256": "98addfb68b1e92d4f40ef37cdea8f46217bf7188991cc7347a3fc510a410f1e5"
+    },
+    {
+      "name": "Balm",
+      "filename": "balm-neoforge-1.21.1-21.0.56.jar",
+      "url": "https://edge.forgecdn.net/files/7420/963/balm-neoforge-1.21.1-21.0.56.jar",
+      "sha256": "670ed64e73cacb646b21eaa6e2d2028f95c498d0cf1ae5cffcf7035d0b2fb32e"
+    },
+    {
+      "name": "Beginner's Delight",
+      "filename": "beginnersdelight-0.4.0+1.21.1-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/7662/723/beginnersdelight-0.4.0%2b1.21.1-neoforge.jar",
+      "sha256": "7a782f14b31368ba6def33f2f8f484ad5e33384497faf9597d22baed6939b89c"
+    },
+    {
+      "name": "Better Starting Armors",
+      "filename": "better_starting_armors-1.0.1-neoforge-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7324/815/better_starting_armors-1.0.1-neoforge-1.21.1.jar",
+      "sha256": "205b3e590b1021dba61edf89b7cd49dfb65d24d427cc111cf0e69c4ad9d39d8b"
+    },
+    {
+      "name": "Better Advancements",
+      "filename": "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+      "url": "https://edge.forgecdn.net/files/5850/587/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+      "sha256": "60b548bef04a2f0e1da686ee9035c2e3d4ed0459a17d7a4836fc26af6de6b60e"
+    },
+    {
+      "name": "Better Combat [Fabric & Forge]",
+      "filename": "bettercombat-neoforge-2.3.2+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7721/843/bettercombat-neoforge-2.3.2%2b1.21.1.jar",
+      "sha256": "afb1f28271ee3b622947f533aa754bb22ed67edd4940a3e9fdf2cca1edb7b8a9"
+    },
+    {
+      "name": "Better Fps - Render Distance[Forge/Neoforge]",
+      "filename": "betterfpsdist-1.21-6.0.jar",
+      "url": "https://edge.forgecdn.net/files/5723/250/betterfpsdist-1.21-6.0.jar",
+      "sha256": "92fda56743cacb8b00e5c5e1910979cde1a39fb753a4f22310d69b23d6c9ec73"
+    },
+    {
+      "name": "Biolith",
+      "filename": "biolith-neoforge-3.0.11.jar",
+      "url": "https://edge.forgecdn.net/files/8045/279/biolith-neoforge-3.0.11.jar",
+      "sha256": "9a30b36cdb396b6a986f51a6fb6c11c4df0d246cdae4c7841668f7d89ff05c94"
+    },
+    {
+      "name": "Bosses'Rise - Epic Souls like boss fights",
+      "filename": "block_factorys_bosses-2.1.1-neo-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/8034/99/block_factorys_bosses-2.1.1-neo-1.21.1.jar",
+      "sha256": "841968e20475f3524c5b8750e95b8b82b95b506bdbf558c695f7b7abfaeaa284"
+    },
+    {
+      "name": "Bookshelf",
+      "filename": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "url": "https://edge.forgecdn.net/files/7606/240/bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "sha256": "19e88d40da2b6a114c2b808f7fb469d96e66a5379df0a8a43fcb7834498b3e76"
+    },
+    {
+      "name": "Born in Chaos",
+      "filename": "born_in_chaos_[Neoforge]_1.21.1_1.7.5.jar",
+      "url": "https://edge.forgecdn.net/files/7917/953/born_in_chaos_%5bNeoforge%5d_1.21.1_1.7.5.jar",
+      "sha256": "9afebf09cf6a75e731c9eda414fcebc2a414f9e3d834ceea49bbfcc9c45492b7"
+    },
+    {
+      "name": "Boss Checklist",
+      "filename": "boss_checklist-neoforge-5.0.1.jar",
+      "url": "https://edge.forgecdn.net/files/7978/917/boss_checklist-neoforge-5.0.1.jar",
+      "sha256": "26de8d0246f74bbaad48c93879df6a1e537962e027ad56c5fa289009c648eb44"
+    },
+    {
+      "name": "Boundless: Quests",
+      "filename": "boundless-8.jar",
+      "url": "https://edge.forgecdn.net/files/8009/133/boundless-8.jar",
+      "sha256": "fc8a88ff537b4a4c295d40c82047ee068dce68c3bac9712d493a9633ed28b2c2"
+    },
+    {
+      "name": "Bountiful",
+      "filename": "bountiful-neoforge-8.0.0-beta.2.jar",
+      "url": "https://edge.forgecdn.net/files/7919/197/bountiful-neoforge-8.0.0-beta.2.jar",
+      "sha256": "dca5e0af724e3076b3d950b7ec88cf63c509435cf41371a6e1c7c306cb6a7e51"
+    },
+    {
+      "name": "Bundle API",
+      "filename": "bundle-api-neoforge-1.1.0.jar",
+      "url": "https://edge.forgecdn.net/files/7006/149/bundle-api-neoforge-1.1.0.jar",
+      "sha256": "73328888d1dede4c121974a0914f5a35cb857283223217a59de7b5b697e43771"
+    },
+    {
+      "name": "Concurrent Chunk Management Engine",
+      "filename": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.91.jar",
+      "url": "https://edge.forgecdn.net/files/7967/514/c2me-neoforge-mc1.21.1-0.3.0%2balpha.0.91.jar",
+      "sha256": "107ec5b3cca05a038ee21aa35e5c68880297c370e4a47d14998ecfa7270af369"
+    },
+    {
+      "name": "Cataclysm & BetterCombat - Compatibility",
+      "filename": "cataclysm_compat_1.21.1-1.0.2.jar",
+      "url": "https://edge.forgecdn.net/files/7350/924/cataclysm_compat_1.21.1-1.0.2.jar",
+      "sha256": "467e4a03ef4891080506d4e1d8aa303e918f6488e8dcad5cfcbf139ae11a12c2"
+    },
+    {
+      "name": "Chalk",
+      "filename": "chalk-1.6.11.jar",
+      "url": "https://edge.forgecdn.net/files/7370/728/chalk-1.6.11.jar",
+      "sha256": "1dcf17baa4b14bd189b045500bd3f41714089b0b36e20326298072e15ae4b1ab"
+    },
+    {
+      "name": "Chloride (Previously Embeddium++/Sodium++)",
+      "filename": "chloride-NEOFORGE-mc1.21.1-v1.7.7.jar",
+      "url": "https://edge.forgecdn.net/files/8064/911/chloride-NEOFORGE-mc1.21.1-v1.7.7.jar",
+      "sha256": "ba5c316c63f63a0a8fc1e5739a84bded008d2e47c310c67bfcdf560f02f005f8"
+    },
+    {
+      "name": "Chunk Sending",
+      "filename": "chunksending-1.21-2.9.jar",
+      "url": "https://edge.forgecdn.net/files/7926/632/chunksending-1.21-2.9.jar",
+      "sha256": "0e75df38c24984609800cb1ff52f4f132627846783503d5fed6f413f0fd35d31"
+    },
+    {
+      "name": "Chunky (Forge/NeoForge)",
+      "filename": "Chunky-NeoForge-1.4.23.jar",
+      "url": "https://edge.forgecdn.net/files/6383/261/Chunky-NeoForge-1.4.23.jar",
+      "sha256": "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274"
+    },
+    {
+      "name": "Cinematic Zoom",
+      "filename": "cinematiczoomNEO1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7955/287/cinematiczoomNEO1.21.1.jar",
+      "sha256": "346742e6a04d184e513932c3a0af5167befabcd13e71c8453986cee194de7708"
+    },
+    {
+      "name": "Clean Swing Through Grass",
+      "filename": "cleanswing-1.9.jar",
+      "url": "https://edge.forgecdn.net/files/6153/780/cleanswing-1.9.jar",
+      "sha256": "b86e69372a3451a09c1b5d09d69f2e20485c6d2aa62fa8a538ef77509a5f5595"
+    },
+    {
+      "name": "Client Crafting",
+      "filename": "clientcrafting-1.21-2.1.jar",
+      "url": "https://edge.forgecdn.net/files/7920/161/clientcrafting-1.21-2.1.jar",
+      "sha256": "318a7a7c28b9d5cbeecb69f8e27eb8d1b638d991108316364c64dc8bc5f013c0"
+    },
+    {
+      "name": "Client Sort",
+      "filename": "clientsort-neoforge-2.2.1+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7643/728/clientsort-neoforge-2.2.1%2b1.21.1.jar",
+      "sha256": "985bf84e001a614b7342d5b610ff99a438ac4c22e8aa33be2c032042ffb639a8"
+    },
+    {
+      "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+      "filename": "cloth-config-15.0.140-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar",
+      "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+    },
+    {
+      "name": "Clumps",
+      "filename": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "url": "https://edge.forgecdn.net/files/5623/731/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "sha256": "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e"
+    },
+    {
+      "name": "Clutter No More",
+      "filename": "clutternomore-1.1.9+1.21.1-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/7669/874/clutternomore-1.1.9%2b1.21.1-neoforge.jar",
+      "sha256": "7e5127bc2663e7b23c0e280bee87bb86096f9b68e35fcadd3ca1c040b01b683e"
+    },
+    {
+      "name": "Collective",
+      "filename": "collective-1.21.1-8.22.jar",
+      "url": "https://edge.forgecdn.net/files/8021/351/collective-1.21.1-8.22.jar",
+      "sha256": "a91714404b5c8c7cb192afd0a447af2234fe2ba73ee32a209bdd026362518cbb"
+    },
+    {
+      "name": "Colorwheel Patcher",
+      "filename": "colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7924/942/colorwheel_patcher-neoforge-1.0.5%2bmc1.21.1.jar",
+      "sha256": "2285a5154739d2e9889d979e3bdf54104b56d7966dac8d43367305e5aaedcce8"
+    },
+    {
+      "name": "Colorwheel",
+      "filename": "colorwheel-neoforge-1.2.5+mc1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/8067/268/colorwheel-neoforge-1.2.5%2bmc1.21.1.jar",
+      "sha256": "233de8a370fa40fc3b80c118416a3cd14b5342c8a3fb7b2a9c834604a909a452"
+    },
+    {
+      "name": "Configured",
+      "filename": "configured-neoforge-1.21.1-2.6.3.jar",
+      "url": "https://edge.forgecdn.net/files/7276/577/configured-neoforge-1.21.1-2.6.3.jar",
+      "sha256": "421ffd2604b5487cbdb284d1eb5d1cb8a7d28f3ff84d5b4bda25e0a579282a15"
+    },
+    {
+      "name": "Connectivity",
+      "filename": "connectivity-1.21.1-7.6.jar",
+      "url": "https://edge.forgecdn.net/files/7367/221/connectivity-1.21.1-7.6.jar",
+      "sha256": "2366973ddae5ba00b9ba15a26e5b610a6648038b9f2549bf81b9ae61342b281a"
+    },
+    {
+      "name": "Controlling",
+      "filename": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "url": "https://edge.forgecdn.net/files/6368/976/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "sha256": "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0"
+    },
+    {
+      "name": "Copper Age Backport Durability Fix",
+      "filename": "copperagebackport_durability_fix-neoforge-0.1.0.jar",
+      "url": "https://edge.forgecdn.net/files/7997/308/copperagebackport_durability_fix-neoforge-0.1.0.jar",
+      "sha256": "87ce97a23b705a1ae000f4cbc6ebd654ac98c8ffc2ce910b12bb94dfffd4fcc3"
+    },
+    {
+      "name": "Copper Age Backport",
+      "filename": "copperagebackport-neoforge-1.21.1-0.1.4.jar",
+      "url": "https://edge.forgecdn.net/files/7283/478/copperagebackport-neoforge-1.21.1-0.1.4.jar",
+      "sha256": "1cd0007d427be712d303f5a6f8084c67a2635f02e686e8c9c824cc1dcfdfa272"
+    },
+    {
+      "name": "Corpse",
+      "filename": "corpse-neoforge-1.21.1-1.1.13.jar",
+      "url": "https://edge.forgecdn.net/files/7018/307/corpse-neoforge-1.21.1-1.1.13.jar",
+      "sha256": "f61e750eb2cb49867483d34d6630e02597a52e41680fc38d1c65ece4ef36fd2b"
+    },
+    {
+      "name": "Corpse x Curios API Compat",
+      "filename": "corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+      "url": "https://edge.forgecdn.net/files/7891/800/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+      "sha256": "4fc4702868b51cbb94717f2c209373f2823fb1383a45c77ffdbeb6df96440d51"
+    },
+    {
+      "name": "Crash Assistant",
+      "filename": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9.jar",
+      "url": "https://edge.forgecdn.net/files/8049/672/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9.jar",
+      "sha256": "3d9a73e311db4966a1fed9837d7923455c85298f621bcac0d04ff3fc420fbd90"
+    },
+    {
+      "name": "CrashExploitFixer",
+      "filename": "crashexploitfixer-neoforge-2.0.0+1.21.4.jar",
+      "url": "https://edge.forgecdn.net/files/8071/70/crashexploitfixer-neoforge-2.0.0%2b1.21.4.jar",
+      "sha256": "32c7be498962d54b28dfb902c1509596442048a3ae72bd3f7884ab853d0e4464"
+    },
+    {
+      "name": "Create",
+      "filename": "create-1.21.1-6.0.10.jar",
+      "url": "https://edge.forgecdn.net/files/7963/363/create-1.21.1-6.0.10.jar",
+      "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+    },
+    {
+      "name": "Create Stuff 'N Additions",
+      "filename": "create-stuff-additions1.21.1_v2.1.2.jar",
+      "url": "https://edge.forgecdn.net/files/8070/658/create-stuff-additions1.21.1_v2.1.2.jar",
+      "sha256": "1a2498dfca89d1608471429af8e1ea28c1ae307569d4bffbccb119655745b7fc"
+    },
+    {
+      "name": "Create Better FPS",
+      "filename": "createbetterfps-1.21.1-1.1.4.jar",
+      "url": "https://edge.forgecdn.net/files/7951/368/createbetterfps-1.21.1-1.1.4.jar",
+      "sha256": "f0080f5cb186bf9f785dc5510babab94d97adc7918952cff780d2c5fadf2ac9a"
+    },
+    {
+      "name": "Cupboard",
+      "filename": "cupboard-1.21-3.5.jar",
+      "url": "https://edge.forgecdn.net/files/7746/488/cupboard-1.21-3.5.jar",
+      "sha256": "d27298b67d74d6c95bdf1869bd60f49cfb93f33e6f14a0393be144584649c7db"
+    },
+    {
+      "name": "Curios API (Forge/NeoForge)",
+      "filename": "curios-neoforge-9.5.1+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/6529/130/curios-neoforge-9.5.1%2b1.21.1.jar",
+      "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
+    },
+    {
+      "name": "Darker Depths",
+      "filename": "darkerdepths-2.1.3.jar",
+      "url": "https://edge.forgecdn.net/files/7964/516/darkerdepths-2.1.3.jar",
+      "sha256": "6c1c9dcb5ac666c3912340d6ac0a014c4ad69b47e694efed0d200230f23f7e79"
+    },
+    {
+      "name": "Databank",
+      "filename": "databank-1.3.1.jar",
+      "url": "https://edge.forgecdn.net/files/8039/21/databank-1.3.1.jar",
+      "sha256": "de5fcb3cae1c56d7490fd1af3975ecf1fc483a5d65be93b6f276d7d2c0c16718"
+    },
+    {
+      "name": "Default Skill Trees",
+      "filename": "default_skill_trees-1.1.jar",
+      "url": "https://edge.forgecdn.net/files/5852/412/default_skill_trees-1.1.jar",
+      "sha256": "6038a4843f19ad09972cf8b218ea311ed86188c9575c866c7903202660de5d4f"
+    },
+    {
+      "name": "Default Options",
+      "filename": "defaultoptions-neoforge-1.21.1-21.1.6.jar",
+      "url": "https://edge.forgecdn.net/files/7966/181/defaultoptions-neoforge-1.21.1-21.1.6.jar",
+      "sha256": "eb842e7a38fff780865634853e09a3742f8bde718357ba50a4ef691f63cc10c9"
+    },
+    {
+      "name": "DespawnTweaker Refoxed",
+      "filename": "despawntweaker-1.21.1-NeoForge-1.0.0.jar",
+      "url": "https://edge.forgecdn.net/files/6127/819/despawntweaker-1.21.1-NeoForge-1.0.0.jar",
+      "sha256": "fec252fae473b7b410986e98f55e871a43b9933a6b0898caa6381a0e8a8affd3"
+    },
+    {
+      "name": "DnT Nether Fortress Overhaul",
+      "filename": "DnT-nether-fortress-overhaul-v2.4 [NeoForge].jar",
+      "url": "https://edge.forgecdn.net/files/5768/841/DnT-nether-fortress-overhaul-v2.4%20%5bNeoForge%5d.jar",
+      "sha256": "cfa79be379c70f993786bb068e3f7a7864a5037e1a5e48dfbb2aed62feec73d7"
+    },
+    {
+      "name": "Savage Ender Dragon",
+      "filename": "dragonfight-1.21-4.7.jar",
+      "url": "https://edge.forgecdn.net/files/6828/602/dragonfight-1.21-4.7.jar",
+      "sha256": "2e314b5c7e84497e2b12e359a0ab224783a10d3dee774f56a5890ffc3f8d8745"
+    },
+    {
+      "name": "Dungeons and Taverns",
+      "filename": "dungeons-and-taverns-v4.4.4 [NeoForge].jar",
+      "url": "https://edge.forgecdn.net/files/5768/823/dungeons-and-taverns-v4.4.4%20%5bNeoForge%5d.jar",
+      "sha256": "1db28e89e0cb76aebe9e40955d1866e8ac1779575d15c2a1e250ac804a762d05"
+    },
+    {
+      "name": "Easy Mob Spawn Control - spawn rate, mob cap, disable bad mobs",
+      "filename": "easy_mob_spawn_control-1.1.5.jar",
+      "url": "https://edge.forgecdn.net/files/7959/969/easy_mob_spawn_control-1.1.5.jar",
+      "sha256": "0fcac6f70cd255bb6a1e572e6b28cdfe982df14f2024114bb1d36116b0f27509"
+    },
+    {
+      "name": "Echo Chest",
+      "filename": "EchoChest-v21.1.1-1.21.1-NeoForge.jar",
+      "url": "https://edge.forgecdn.net/files/6406/106/EchoChest-v21.1.1-1.21.1-NeoForge.jar",
+      "sha256": "74b3c3871ae2baf35115236b516cac29cd2ae6de547863bb0609857c7a5e1e6f"
+    },
+    {
+      "name": "EMI",
+      "filename": "emi-1.1.23+1.21.1+neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/8071/81/emi-1.1.23%2b1.21.1%2bneoforge.jar",
+      "sha256": "46c177cbc46f55d6f334cb9047ef199cd57128d6975b7d9e2bca407eb4d23842"
+    },
+    {
+      "name": "Enchantment Descriptions",
+      "filename": "enchdesc-neoforge-1.21.1-21.1.9.jar",
+      "url": "https://edge.forgecdn.net/files/7039/849/enchdesc-neoforge-1.21.1-21.1.9.jar",
+      "sha256": "74d546ecb147da7e2cb53fe3115f6e062094329dcf15639b3da694cc00d3f843"
+    },
+    {
+      "name": "Enderscape",
+      "filename": "enderscape-neoforge-1.0.9+mc1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/6875/961/enderscape-neoforge-1.0.9%2bmc1.21.1.jar",
+      "sha256": "1caf18aa7b8385ac83d4d700f7d48cc1c3aeed321550a7204cb80a1493c1809a"
+    },
+    {
+      "name": "End Remastered [NeoForge/Fabric]",
+      "filename": "endrem-neoforge-1.21.X-6.0.2.jar",
+      "url": "https://edge.forgecdn.net/files/5625/392/endrem-neoforge-1.21.X-6.0.2.jar",
+      "sha256": "f15cb30b32263410641c54ae6602a8bb8f00bc3cb57961c6b9941529cab0798d"
+    },
+    {
+      "name": "[EMF] Entity Model Features [Fabric & Forge]",
+      "filename": "entity_model_features-3.2.4-1.21-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/8063/559/entity_model_features-3.2.4-1.21-neoforge.jar",
+      "sha256": "84c22f2be06ee6bfab265a443e075225878bba9f408843030dc6de3152e9dedb"
+    },
+    {
+      "name": "[ETF] Entity Texture Features - [Fabric & Forge]",
+      "filename": "entity_texture_features_1.21-neoforge-7.1.jar",
+      "url": "https://edge.forgecdn.net/files/7930/620/entity_texture_features_1.21-neoforge-7.1.jar",
+      "sha256": "b2e396543c678b8378a2d5557a0cd3d24790364bff7e96edaf17921112d6176b"
+    },
+    {
+      "name": "Entity Culling Fabric/Forge",
+      "filename": "entityculling-neoforge-1.9.5-mc1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7396/695/entityculling-neoforge-1.9.5-mc1.21.1.jar",
+      "sha256": "6357c6c7649d139f088b7176d589e3e7b16790f3c484a544c112702df0373001"
+    },
+    {
+      "name": "Equipment Compare [Neo/Forge]",
+      "filename": "EquipmentCompare-1.21.1-neoforge-1.3.13.jar",
+      "url": "https://edge.forgecdn.net/files/6375/501/EquipmentCompare-1.21.1-neoforge-1.3.13.jar",
+      "sha256": "b25b8544cdedeff991ffa42f8d983e32462beefc69e984d4bec54a0975d9b21c"
+    },
+    {
+      "name": "Eternal Nether",
+      "filename": "EternalNether-v21.1.3-1.21.1-NeoForge.jar",
+      "url": "https://edge.forgecdn.net/files/6751/611/EternalNether-v21.1.3-1.21.1-NeoForge.jar",
+      "sha256": "9680efb45ec51250da820b8d525ab739fe0210458651ea87f13c3de9b2691a93"
+    },
+    {
+      "name": "Eternal Starlight",
+      "filename": "eternalstarlight-0.7.0-hotfix+1.21.1+neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/7788/339/eternalstarlight-0.7.0-hotfix%2b1.21.1%2bneoforge.jar",
+      "sha256": "1a12e4ad9be3f3400722cbd830eb13caf129a48de77f59be1dc09381e0a734dc"
+    },
+    {
+      "name": "Exclusions Lib",
+      "filename": "ExclusionsLib-1.1.0-NEO.jar",
+      "url": "https://edge.forgecdn.net/files/7502/579/ExclusionsLib-1.1.0-NEO.jar",
+      "sha256": "e926fce2ed8e78b2f5fc29cc707299f8688b4a39b2043a30a2607fda046abfa2"
+    },
+    {
+      "name": "Explorer's Compass",
+      "filename": "ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/7892/943/ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+      "sha256": "71e7b47bd88c9c210d7c06fe5276736fc2e225e869778216537d584e6d1faf24"
+    },
+    {
+      "name": "FancyMenu",
+      "filename": "fancymenu_neoforge_3.9.0_MC_1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/8032/709/fancymenu_neoforge_3.9.0_MC_1.21.1.jar",
+      "sha256": "0d562ad4b89b962082210258bebd8db39dba8b8218ad6d8cbb4d023fd811161c"
+    },
+    {
+      "name": "Farsight [Forge/Neo]",
+      "filename": "farsight-1.21.1-4.5.jar",
+      "url": "https://edge.forgecdn.net/files/7016/590/farsight-1.21.1-4.5.jar",
+      "sha256": "1fd4967c959a6177bbd1ea25a74436a55ad594d5f95c89f3479ca517b7ed8bc3"
+    },
+    {
+      "name": "Fast IP Ping",
+      "filename": "fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/7936/390/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+      "sha256": "c93500aa25eaa7bc473e753b8abf4234e7c46713d50bb82b30383ee47e646f5a"
+    },
+    {
+      "name": "Fast Async World Save[Forge/Neo/Fabric]",
+      "filename": "fastasyncworldsave-1.21-2.6.jar",
+      "url": "https://edge.forgecdn.net/files/6935/204/fastasyncworldsave-1.21-2.6.jar",
+      "sha256": "099316ee212ff44bcd7aea853f0153cd28432e0297676d21f61e8b000089714f"
+    },
+    {
+      "name": "Fast Item Frames",
+      "filename": "FastItemFrames-v21.1.6-1.21.1-NeoForge.jar",
+      "url": "https://edge.forgecdn.net/files/6963/18/FastItemFrames-v21.1.6-1.21.1-NeoForge.jar",
+      "sha256": "e831a12ca075450295aa26c8862d641498f8031af10674d60a791d2f27be17be"
+    },
+    {
+      "name": "Fast Paintings",
+      "filename": "fastpaintings-1.21-1.3.0-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/7305/762/fastpaintings-1.21-1.3.0-neoforge.jar",
+      "sha256": "782afb6f4c631c9d3313b6442d304b36336f794273dfa5c381485142020ca05a"
+    },
+    {
+      "name": "FerriteCore ((Neo)Forge)",
+      "filename": "ferritecore-7.0.3-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/7524/151/ferritecore-7.0.3-neoforge.jar",
+      "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
+    },
+    {
+      "name": "Field Guide",
+      "filename": "fieldguide-neoforge-1.21.1-1.7.5.jar",
+      "url": "https://edge.forgecdn.net/files/8046/74/fieldguide-neoforge-1.21.1-1.7.5.jar",
+      "sha256": "5067b7d0f25a6924ed1e22ba763ab395d2dc45c5eda15d4f44d86b0fc1761b6c"
+    },
+    {
+      "name": "FixMySpawnR",
+      "filename": "fixmyspawnr-neoforge-1.21.1-3.0.2.jar",
+      "url": "https://edge.forgecdn.net/files/7073/264/fixmyspawnr-neoforge-1.21.1-3.0.2.jar",
+      "sha256": "a67c66a254e19ea97aa6386bb842e386e75e13bc3030303b15c4c3214a1a6936"
+    },
+    {
+      "name": "Flerovium",
+      "filename": "flerovium-neoforge-1.21.1-1.0.18-all.jar",
+      "url": "https://edge.forgecdn.net/files/7951/633/flerovium-neoforge-1.21.1-1.0.18-all.jar",
+      "sha256": "653914a858dabd05bfa271b5605ac65aca8abe22d034bd2672c08a28c52691cb"
+    },
+    {
+      "name": "Forgified Fabric API",
+      "filename": "forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7658/611/forgified-fabric-api-0.116.7%2b2.2.4%2b1.21.1.jar",
+      "sha256": "19867adeb1b5c0e79510b7fd2d6213a59949c9277b96a1c76a04a22211ad6d15"
+    },
+    {
+      "name": "Fzzy Config",
+      "filename": "fzzy_config-0.7.6+1.21+neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/7568/897/fzzy_config-0.7.6%2b1.21%2bneoforge.jar",
+      "sha256": "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050"
+    },
+    {
+      "name": "Galosphere",
+      "filename": "Galosphere-1.21.1-1.5.3-NeoForge.jar",
+      "url": "https://edge.forgecdn.net/files/7382/684/Galosphere-1.21.1-1.5.3-NeoForge.jar",
+      "sha256": "e1e5cc1f2ec0f388207508f7ebbdd059fbdc6f091cbcad1d5b84bb0613b66ead"
+    },
+    {
+      "name": "GeckoLib",
+      "filename": "geckolib-neoforge-1.21.1-4.8.4.jar",
+      "url": "https://edge.forgecdn.net/files/7707/149/geckolib-neoforge-1.21.1-4.8.4.jar",
+      "sha256": "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9"
+    },
+    {
+      "name": "Get It Together, Drops!",
+      "filename": "getittogetherdrops-neoforge-1.21.5-1.4.jar",
+      "url": "https://edge.forgecdn.net/files/6775/278/getittogetherdrops-neoforge-1.21.5-1.4.jar",
+      "sha256": "a09466d03e3dde0c0f5c179146a8247b33a720a88979eb813c5f2aa2ad1c7a78"
+    },
+    {
+      "name": "Gnetum",
+      "filename": "gnetum-3.3.2.jar",
+      "url": "https://edge.forgecdn.net/files/7943/999/gnetum-3.3.2.jar",
+      "sha256": "61a549fc31c029427a7385fd43cf3fa8173c78714457046809d2da25938d9932"
+    },
+    {
+      "name": "Gobber [NEOFORGE/FORGE]",
+      "filename": "Gobber-NeoForge-1.21.1-2.10.15.jar",
+      "url": "https://edge.forgecdn.net/files/5788/529/Gobber-NeoForge-1.21.1-2.10.15.jar",
+      "sha256": "36f998130395b23ace89c9e54bffb6e18de3af53420c81dc29fce349408f4433"
+    },
+    {
+      "name": "fix GPU memory leak",
+      "filename": "gpumemleakfix-1.21-1.8.jar",
+      "url": "https://edge.forgecdn.net/files/5513/549/gpumemleakfix-1.21-1.8.jar",
+      "sha256": "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931"
+    },
+    {
+      "name": "Grim kingdoms: Vanilla Edition",
+      "filename": "grim-kingdoms-lost-structures-ruins-vanilla-edition-v1.0.0 1.21+.jar",
+      "url": "https://edge.forgecdn.net/files/7897/154/grim-kingdoms-lost-structures-ruins-vanilla-edition-v1.0.0%201.21%2b.jar",
+      "sha256": "181e94dacb374f49fe1bca5b376f8b78556181783306cb798597ac0eb9d34cce"
+    },
+    {
+      "name": "Guard Villagers",
+      "filename": "guardvillagers-2.4.7-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7704/203/guardvillagers-2.4.7-1.21.1.jar",
+      "sha256": "1806ee3ffa75a45474d310166adf8eef0ab99f39343d8e30d238077191eb1593"
+    },
+    {
+      "name": "Hide Experimental Warning",
+      "filename": "hideexperimentalwarning-1.21.1-1.2.jar",
+      "url": "https://edge.forgecdn.net/files/5609/644/hideexperimentalwarning-1.21.1-1.2.jar",
+      "sha256": "703b4b02f8bdd301ab903c127068edf147463a110ee7420fef338c4315890e63"
+    },
+    {
+      "name": "Hominid",
+      "filename": "hominid-1.3.2.jar",
+      "url": "https://edge.forgecdn.net/files/7861/678/hominid-1.3.2.jar",
+      "sha256": "b788ea0a7ba018aaac4dffa0c06c0d3af8fd074db5df344b6565c31239b59b12"
+    },
+    {
+      "name": "Horseman",
+      "filename": "horseman-neoforge-1.21.1-1.5.9.jar",
+      "url": "https://edge.forgecdn.net/files/7479/795/horseman-neoforge-1.21.1-1.5.9.jar",
+      "sha256": "6ead0d129ee4a40acec31d569572ec18db3f08a15ce73df66ce7694e2b251266"
+    },
+    {
+      "name": "Iceberg [Neo/Forge]",
+      "filename": "Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "url": "https://edge.forgecdn.net/files/6423/863/Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "sha256": "0d620c975619b04110b94a73d5b42d252563ff59c1eae9d21ab2ee7e38460a3c"
+    },
+    {
+      "name": "ImmediatelyFast",
+      "filename": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7537/795/ImmediatelyFast-NeoForge-1.6.10%2b1.21.1.jar",
+      "sha256": "9fbb8dce1bb72feacdc3b75c6fcbf689865ad3793a19649443d76be20993ddd0"
+    },
+    {
+      "name": "Immersive Optimization",
+      "filename": "immersive_optimization-neoforge-1.21-0.1.4.jar",
+      "url": "https://edge.forgecdn.net/files/7695/530/immersive_optimization-neoforge-1.21-0.1.4.jar",
+      "sha256": "3d7cf11f17677c88db831739a725c12a75cf2c0dafb4a027b3352daa3a447337"
+    },
+    {
+      "name": "Immersive Overlays",
+      "filename": "immersiveoverlays-1.7.0+1.21.1-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/8055/447/immersiveoverlays-1.7.0%2b1.21.1-neoforge.jar",
+      "sha256": "44d04918a6c28bc756edd189c733e606ce0ed8055dbfabef017dd29d13e29fae"
+    },
+    {
+      "name": "Iris Shaders",
+      "filename": "iris-neoforge-1.8.12+mc1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/6661/598/iris-neoforge-1.8.12%2bmc1.21.1.jar",
+      "sha256": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
+    },
+    {
+      "name": "Iron's Lib",
+      "filename": "irons_lib-1.21.1-1.0.2.jar",
+      "url": "https://edge.forgecdn.net/files/7907/336/irons_lib-1.21.1-1.0.2.jar",
+      "sha256": "650900b0f6561a74d6e2129a9094fd0b8a9eea0a60d2a580261e0d4b25fcaf22"
+    },
+    {
+      "name": "Iron's Spells 'n Spellbooks",
+      "filename": "irons_spellbooks-1.21.1-3.15.6.jar",
+      "url": "https://edge.forgecdn.net/files/7907/341/irons_spellbooks-1.21.1-3.15.6.jar",
+      "sha256": "ba1f1986ca706ae348cb6fce6e383ab7cc61c375826ccf0e4d3a88ed2f9fcd3d"
+    },
+    {
+      "name": "Iron's Spells 'n Spellbooks Dynamic Skill Trees",
+      "filename": "irons_spells_dynamic_skilltree_1.1.0.jar",
+      "url": "https://edge.forgecdn.net/files/6486/273/irons_spells_dynamic_skilltree_1.1.0.jar",
+      "sha256": "07ecb47f5a374879f72239dec136ee8f7c08366384507d32aedb6419afe1e07e"
+    },
+    {
+      "name": "Item Descriptions",
+      "filename": "item_descriptions-2.7.2+1.21.1-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/7734/378/item_descriptions-2.7.2%2b1.21.1-neoforge.jar",
+      "sha256": "aef90f46c63af3765a6c66510cd9baf7d74d7d6087ba5cda00d299e6854555f3"
+    },
+    {
+      "name": "Ixeris",
+      "filename": "Ixeris-4.2.0+1.21.1-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/8018/979/Ixeris-4.2.0%2b1.21.1-neoforge.jar",
+      "sha256": "0167d65a228665d3428786627e79a709a729e401dc73dfb878ce07157b44035d"
+    },
+    {
+      "name": "Jade 🔍",
+      "filename": "Jade-1.21.1-NeoForge-15.10.5.jar",
+      "url": "https://edge.forgecdn.net/files/7545/219/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "sha256": "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d"
+    },
+    {
+      "name": "JeremySeq's Damage Indicators",
+      "filename": "jeremyseqsdamageindicators-2.2.1-1.21.1-neo.jar",
+      "url": "https://edge.forgecdn.net/files/6733/254/jeremyseqsdamageindicators-2.2.1-1.21.1-neo.jar",
+      "sha256": "ad29e5743f01cfda8b5dc1eaf8ce56c496b90fd701703118988384d369519bdc"
+    },
+    {
+      "name": "Jewelry (RPG Series)",
+      "filename": "jewelry-neoforge-2.3.2+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7322/346/jewelry-neoforge-2.3.2%2b1.21.1.jar",
+      "sha256": "9d825e03c6a8f4cfffbfbb8cf99f5f96ec2152f41f197d9a2d0fe2209bd8e720"
+    },
+    {
+      "name": "JustHammers",
+      "filename": "just-hammers-neoforge-21.1.4.jar",
+      "url": "https://edge.forgecdn.net/files/7435/250/just-hammers-neoforge-21.1.4.jar",
+      "sha256": "59487c8758fd762fcddc58e3b5e8a956de3f6a2115cd1c6f9a915939f5f985d8"
+    },
+    {
+      "name": "Kaleidoscope Cookery",
+      "filename": "kaleidoscopecookery-1.3.0-neoforge+mc1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7966/281/kaleidoscopecookery-1.3.0-neoforge%2bmc1.21.1.jar",
+      "sha256": "9abd26bbab8ecb00274197fea710ec7777b4795f2f7954ab696abe9aedbd29ff"
+    },
+    {
+      "name": "Kambrik",
+      "filename": "kambrik-neoforge-8.0.0-beta.2.jar",
+      "url": "https://edge.forgecdn.net/files/7919/192/kambrik-neoforge-8.0.0-beta.2.jar",
+      "sha256": "a9b14170f2eeb323261c14bf40137ae78920ce2d61d52c85cdccc45bd9f37c2c"
+    },
+    {
+      "name": "Konkrete",
+      "filename": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "url": "https://edge.forgecdn.net/files/5453/385/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "sha256": "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd"
+    },
+    {
+      "name": "Kotlin for Forge",
+      "filename": "kotlinforforge-5.11.0-all.jar",
+      "url": "https://edge.forgecdn.net/files/7471/280/kotlinforforge-5.11.0-all.jar",
+      "sha256": "89d2ccd9d2ca2996ca3ee57b27165893f4bc4b8431be89461f8b2f8fe6162ac1"
+    },
+    {
+      "name": "Krypton Reno",
+      "filename": "krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7461/802/krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
+      "sha256": "05ebe849611daafe533fc57ed9b5156edfa9157ced04d38a7860b1e2075984b9"
+    },
+    {
+      "name": "Ksyxis",
+      "filename": "Ksyxis-1.4.3.jar",
+      "url": "https://edge.forgecdn.net/files/7979/747/Ksyxis-1.4.3.jar",
+      "sha256": "23c8c5993004f0584eb27b19b4397b7aa8833f41b8f2d1ea201ee54a60f964b9"
+    },
+    {
+      "name": "L_Ender 's Cataclysm",
+      "filename": "L_Ender's Cataclysm 1.21.1-3.27.jar",
+      "url": "https://edge.forgecdn.net/files/7908/490/L_Ender%27s%20Cataclysm%201.21.1-3.27.jar",
+      "sha256": "fa4e8abd15aa86333d6a5fe20b05c4fe423ac865da7319be7808d321bcb3930c"
+    },
+    {
+      "name": "Legendary Tooltips [Neo/Forge]",
+      "filename": "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "url": "https://edge.forgecdn.net/files/6400/660/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "sha256": "8ba2bc2cb894e48d8e7520d41c72ef7f429659c3ee58b029f4899c760b958493"
+    },
+    {
+      "name": "[Let's Do] BloomingNature",
+      "filename": "letsdo-bloomingnature-neoforge-1.1.10.jar",
+      "url": "https://edge.forgecdn.net/files/7829/623/letsdo-bloomingnature-neoforge-1.1.10.jar",
+      "sha256": "dda4605227be6727668c2768c4f68eecf1de40090a902e4c9545839ee5d01b95"
+    },
+    {
+      "name": "[Let's Do] Furniture",
+      "filename": "letsdo-furniture-neoforge-1.1.4.jar",
+      "url": "https://edge.forgecdn.net/files/7751/818/letsdo-furniture-neoforge-1.1.4.jar",
+      "sha256": "c291928e4402ef638d2544fb3c551379375b80acf5a019383b57752a36196e54"
+    },
+    {
+      "name": "[Let's Do] Lili's Lucky Lures",
+      "filename": "letsdo-lilis_lucky_lures-neoforge-1.1.3.jar",
+      "url": "https://edge.forgecdn.net/files/7535/965/letsdo-lilis_lucky_lures-neoforge-1.1.3.jar",
+      "sha256": "5fb9b12e1834d2cd0f93359c4c1418e5bb1ad921f2c8cf9b217a1fb9b41aea10"
+    },
+    {
+      "name": "[Let's Do] WilderNature",
+      "filename": "letsdo-wildernature-neoforge-1.1.3.jar",
+      "url": "https://edge.forgecdn.net/files/6986/772/letsdo-wildernature-neoforge-1.1.3.jar",
+      "sha256": "8e16131610c5564a895e0134ca4f31b6c4207d8d47aaff1938461459c1480a54"
+    },
+    {
+      "name": "Limited Chunkloading - Chunk cleanup",
+      "filename": "limitedchunks-1.21-4.1.jar",
+      "url": "https://edge.forgecdn.net/files/5571/339/limitedchunks-1.21-4.1.jar",
+      "sha256": "a87536775ca7cc35a4ff717539b48e4a13182879c18d5d0394f5e9d8929be2ad"
+    },
+    {
+      "name": "Lionfish API",
+      "filename": "lionfishapi-2.7-fix-fix.jar",
+      "url": "https://edge.forgecdn.net/files/7941/57/lionfishapi-2.7-fix-fix.jar",
+      "sha256": "0b01c90fc1f7d707d7bd11674de227e21e0879d4f600ba890f3d0a80356379c8"
+    },
+    {
+      "name": "Lithium (Fabric/NeoForge)",
+      "filename": "lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7740/400/lithium-neoforge-0.15.3%2bmc1.21.1.jar",
+      "sha256": "a6548862bd13ff8eea6747cf61df50c8374a16a22d067614e414ed600eee6d83"
+    },
+    {
+      "name": "Lithostitched",
+      "filename": "lithostitched-1.7.3-neoforge-21.1.jar",
+      "url": "https://edge.forgecdn.net/files/8056/160/lithostitched-1.7.3-neoforge-21.1.jar",
+      "sha256": "1d0cb48bf1a35b0814a6714dd1203ef1f61c291c6941e70629fb161a04935353"
+    },
+    {
+      "name": "Load My F***ing Tags",
+      "filename": "lmft-1.1.1+1.21.9-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/7084/444/lmft-1.1.1%2b1.21.9-neoforge.jar",
+      "sha256": "932765aae037197e8acfe7a90d9e473b143e3e785655c24c02b30c7013cd4458"
+    },
+    {
+      "name": "Loot Journal: Pickup Notifier [NeoForge Edition]",
+      "filename": "loot_journal-neoforge-1.21.1-4.0.1.jar",
+      "url": "https://edge.forgecdn.net/files/5811/502/loot_journal-neoforge-1.21.1-4.0.1.jar",
+      "sha256": "dc8d7d01c8880df85a447b40397a13714e3afa7df30ed49c02dea17ef93c1baa"
+    },
+    {
+      "name": "Lootr (Forge & NeoForge)",
+      "filename": "lootr-neoforge-1.21.1-1.11.37.120.jar",
+      "url": "https://edge.forgecdn.net/files/8041/234/lootr-neoforge-1.21.1-1.11.37.120.jar",
+      "sha256": "f7b80bf86e02a1107fb1600aa6a02608ebcddb140b123a42d5ee199e5db65c8d"
+    },
+    {
+      "name": "Lucky's Showcase",
+      "filename": "luckysshowcase-neoforge-1.21.1-21.1.0.jar",
+      "url": "https://edge.forgecdn.net/files/6524/629/luckysshowcase-neoforge-1.21.1-21.1.0.jar",
+      "sha256": "6db334d952cc38e7d45793171f4f163f57fd7a69fb8d3ad43ac061a361e521c7"
+    },
+    {
+      "name": "Luki's Crazy Chambers",
+      "filename": "lukis-crazy-chambers-1.0.3.jar",
+      "url": "https://edge.forgecdn.net/files/7456/313/lukis-crazy-chambers-1.0.3.jar",
+      "sha256": "3f6b99ba679cb7710cced4cab405597b5692dea345026d3f722a0a7c77566444"
+    },
+    {
+      "name": "Luki's Grand Capitals",
+      "filename": "lukis-grand-capitals-1.1.3.jar",
+      "url": "https://edge.forgecdn.net/files/7456/302/lukis-grand-capitals-1.1.3.jar",
+      "sha256": "58182dc8d306afd944e708e0480d939a9adc3fcdab75c0bebd122a32c63d3851"
+    },
+    {
+      "name": "Luki's Strongholds",
+      "filename": "lukis-strongholds-v1.0 -1.21-1.21.4.jar",
+      "url": "https://edge.forgecdn.net/files/7176/734/lukis-strongholds-v1.0%20-1.21-1.21.4.jar",
+      "sha256": "2837d1ee9799831c810f1eb4c4c09fdb42d0b9ddfab937c472d64acc9c312148"
+    },
+    {
+      "name": "Max Health Fix",
+      "filename": "maxhealthfix-neoforge-1.21.1-21.1.4.jar",
+      "url": "https://edge.forgecdn.net/files/5824/111/maxhealthfix-neoforge-1.21.1-21.1.4.jar",
+      "sha256": "762f7ecc02070781119ba50d82c79a5d8c512bb8c78f6dfae0bcc667f7430105"
+    },
+    {
+      "name": "Melody",
+      "filename": "melody_neoforge_1.0.10_MC_1.21.jar",
+      "url": "https://edge.forgecdn.net/files/5453/382/melody_neoforge_1.0.10_MC_1.21.jar",
+      "sha256": "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871"
+    },
+    {
+      "name": "Metal Bundles",
+      "filename": "MetalBundles-v21.1.1-1.21.1-NeoForge.jar",
+      "url": "https://edge.forgecdn.net/files/6697/871/MetalBundles-v21.1.1-1.21.1-NeoForge.jar",
+      "sha256": "8099bd4003481a731bb48230d77d2734771832c74adc51b106793519e174118c"
+    },
+    {
+      "name": "Cursors Extended",
+      "filename": "minecraft-cursor-neoforge-3.11.3+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7963/827/minecraft-cursor-neoforge-3.11.3%2b1.21.1.jar",
+      "sha256": "87888ffccb35e367c47a3e3a35a9adb12d0ab9b414652e183f4d05f63ca58c62"
+    },
+    {
+      "name": "ModernFix",
+      "filename": "modernfix-neoforge-5.27.7+mc1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/8055/632/modernfix-neoforge-5.27.7%2bmc1.21.1.jar",
+      "sha256": "67626d9d0a4519877927fee22acb1ee213f850cd1a7ca6eb10182c09b8909e75"
+    },
+    {
+      "name": "Modonomicon",
+      "filename": "modonomicon-1.21.1-neoforge-1.120.1.jar",
+      "url": "https://edge.forgecdn.net/files/7771/524/modonomicon-1.21.1-neoforge-1.120.1.jar",
+      "sha256": "f5753e656ea6f200f3862d95a3ffab660470f09cdd222566b562aa3e465dd703"
+    },
+    {
+      "name": "Moonlight Lib",
+      "filename": "moonlight-neoforge-1.21.1-3.0.7.jar",
+      "url": "https://edge.forgecdn.net/files/8065/893/moonlight-neoforge-1.21.1-3.0.7.jar",
+      "sha256": "1027c58f92a85b34c74cb0e10e0a2f9b4bbdfb4ce6b999bcb58012bbfc4209d3"
+    },
+    {
+      "name": "Mouse Tweaks",
+      "filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "url": "https://edge.forgecdn.net/files/5637/846/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "sha256": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
+    },
+    {
+      "name": "Mowzie's Mobs",
+      "filename": "mowziesmobs-1.21.1-1.8.2.jar",
+      "url": "https://edge.forgecdn.net/files/7760/267/mowziesmobs-1.21.1-1.8.2.jar",
+      "sha256": "b8e7e39fb6430326de7fbb193db56588ee8bd04d0054527924fe588f37131e4f"
+    },
+    {
+      "name": "Myths & Legends",
+      "filename": "mythsandlegends-0.0.8.5.jar",
+      "url": "https://edge.forgecdn.net/files/7374/690/mythsandlegends-0.0.8.5.jar",
+      "sha256": "8cace576dc58da61e94d17e7e21e546d3eb575eedaa35911c7453b9c16fe6a66"
+    },
+    {
+      "name": "Nature's Compass",
+      "filename": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/7892/954/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "sha256": "0e249ac11b2f916c5570d9679e188da652fa5664ba9cdb7be5dc9ff69497539c"
+    },
+    {
+      "name": "Necronomicon API",
+      "filename": "Necronomicon-NeoForge-1.6.0+1.21.jar",
+      "url": "https://edge.forgecdn.net/files/5772/683/Necronomicon-NeoForge-1.6.0%2b1.21.jar",
+      "sha256": "63c3057fd28bf9e4a94ffe84f53dd20d9e7172b3e4afdf1b989213935d4aaf14"
+    },
+    {
+      "name": "Neo Bee Fix",
+      "filename": "neobeefix-1.21.1-2.0.0.jar",
+      "url": "https://edge.forgecdn.net/files/7673/883/neobeefix-1.21.1-2.0.0.jar",
+      "sha256": "0dd3091b81c83110941d84d16e426e5a244836fdd701625c0acf9755b4f57464"
+    },
+    {
+      "name": "NoisiumForked",
+      "filename": "noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7569/595/noisium-neoforge-2.7.0%2bmc1.21-1.21.1.jar",
+      "sha256": "ca097cd53fcdabecbcbf22e2515eb1956f313f094cd3a0506800ebf239e255f9"
+    },
+    {
+      "name": "NoPackCompatCheck",
+      "filename": "nopackcompatcheck-0.1.0-neoforge-mc1.21+.jar",
+      "url": "https://edge.forgecdn.net/files/6879/128/nopackcompatcheck-0.1.0-neoforge-mc1.21%2b.jar",
+      "sha256": "54f3f82a3c442277d54564f32ab46cb758c3b0dfdadc8df817bc61425a53c404"
+    },
+    {
+      "name": "Numismatic Bounties (Numismatic Overhaul)",
+      "filename": "Numismatic-Bounties-universal.jar",
+      "url": "https://edge.forgecdn.net/files/7997/280/Numismatic-Bounties-universal.jar",
+      "sha256": "a7d874c175011319a152bb974ebb2a71d32affebbec74fc0866dfe804ce01c35"
+    },
+    {
+      "name": "Numismatic Overhaul: Reforged Again",
+      "filename": "numismaticoverhaul-1.21.1-2.0.1.jar",
+      "url": "https://edge.forgecdn.net/files/6801/648/numismaticoverhaul-1.21.1-2.0.1.jar",
+      "sha256": "8e1602a17edf721f983f2f888da19061d366d7b5b0d8f8553c929bde4053b9e2"
+    },
+    {
+      "name": "ShatterLib | OctoLib",
+      "filename": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "url": "https://edge.forgecdn.net/files/8040/848/OctoLib-NEOFORGE-0.6.2%2b1.21.jar",
+      "sha256": "92ba07d9d9e55a65421f3c3f203c72fe5149cb024d5277267e81d812e11a7f38"
+    },
+    {
+      "name": "Overflowing Bars",
+      "filename": "OverflowingBars-v21.1.1-1.21.1-NeoForge.jar",
+      "url": "https://edge.forgecdn.net/files/5770/623/OverflowingBars-v21.1.1-1.21.1-NeoForge.jar",
+      "sha256": "5f856c47156915fd13ff42917401e488212bb5e2df25fde41f6ec1b032e383db"
+    },
+    {
+      "name": "oωo (owo-lib)",
+      "filename": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "url": "https://edge.forgecdn.net/files/6785/734/owo-lib-neoforge-0.12.15.5-beta.1%2b1.21.jar",
+      "sha256": "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d"
+    },
+    {
+      "name": "Paladins & Priests (RPG Series)",
+      "filename": "paladins-neoforge-2.7.1+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7742/914/paladins-neoforge-2.7.1%2b1.21.1.jar",
+      "sha256": "0d0f14b3e9303efff1691ec2f7b4c5086e4fb020f8bffb174124a3de8539d041"
+    },
+    {
+      "name": "Paragliders",
+      "filename": "Paraglider-neoforge-21.1.5.jar",
+      "url": "https://edge.forgecdn.net/files/7795/89/Paraglider-neoforge-21.1.5.jar",
+      "sha256": "2f084b728383d9de7e9c652c3a92cad086e0b38f131b61f8900d25ba18734e44"
+    },
+    {
+      "name": "Particle Core",
+      "filename": "particle_core-0.3.3+1.21+neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/7581/40/particle_core-0.3.3%2b1.21%2bneoforge.jar",
+      "sha256": "38c05981d1dc8428c7ab1130b9ec7f05bca1b70f909aba9c454c9611702a8dda"
+    },
+    {
+      "name": "Pastel",
+      "filename": "Pastel-1.1.5.5.jar",
+      "url": "https://edge.forgecdn.net/files/7591/337/Pastel-1.1.5.5.jar",
+      "sha256": "33122d9a6bdeeb025d1a2a1210d035104da23c213750d13b3d10af55716a443a"
+    },
+    {
+      "name": "playerAnimator",
+      "filename": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7389/814/player-animation-lib-forge-2.0.4%2b1.21.1.jar",
+      "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
+    },
+    {
+      "name": "Polymorph (Fabric/Forge/Quilt)",
+      "filename": "polymorph-neoforge-1.1.0+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/6794/589/polymorph-neoforge-1.1.0%2b1.21.1.jar",
+      "sha256": "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b"
+    },
+    {
+      "name": "Silent's Power Scale",
+      "filename": "power-scale-1.21.1-neoforge-0.3.1.1.jar",
+      "url": "https://edge.forgecdn.net/files/7977/298/power-scale-1.21.1-neoforge-0.3.1.1.jar",
+      "sha256": "c288fc25002c7aaa0f645ea4b2ab10112c05faf0d65ef23ed58641673c611cf5"
+    },
+    {
+      "name": "Prickle",
+      "filename": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "url": "https://edge.forgecdn.net/files/6961/457/prickle-neoforge-1.21.1-21.1.11.jar",
+      "sha256": "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
+    },
+    {
+      "name": "~Primal~",
+      "filename": "primal-1.1.6+1.21.jar",
+      "url": "https://edge.forgecdn.net/files/8023/311/primal-1.1.6%2b1.21.jar",
+      "sha256": "477de6a9e39f2b508e7fc0d2f1cf8978df11c7d21ebf3baf79818d325e44a88c"
+    },
+    {
+      "name": "Prism [Neo/Forge]",
+      "filename": "Prism-1.21.1-neoforge-1.0.11.jar",
+      "url": "https://edge.forgecdn.net/files/6372/979/Prism-1.21.1-neoforge-1.0.11.jar",
+      "sha256": "b6a1e585416c48d7d9fa53fc12c67122ad1f3a6965202b51d4e2c643ffca61c2"
+    },
+    {
+      "name": "Pufferfish's Unofficial Additions",
+      "filename": "pufferfish_unofficial_additions-1.21.1-2.2.8.jar",
+      "url": "https://edge.forgecdn.net/files/7389/968/pufferfish_unofficial_additions-1.21.1-2.2.8.jar",
+      "sha256": "2f7831975da0740fd29f9bee775ac9fe43d3650c9d0720e8c4f108241c4092d8"
+    },
+    {
+      "name": "Pufferfish's Attributes [Fabric & Forge & NeoForge]",
+      "filename": "puffish_attributes-0.8.2-1.21-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/7551/339/puffish_attributes-0.8.2-1.21-neoforge.jar",
+      "sha256": "c1a30f25be9990e48f5180d42666b8cf91acebaaafa216bfeb11f4fc6bb7c714"
+    },
+    {
+      "name": "Pufferfish's Skills [Fabric & Forge & NeoForge]",
+      "filename": "puffish_skills-0.17.3-1.21-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/7672/803/puffish_skills-0.17.3-1.21-neoforge.jar",
+      "sha256": "de6e498b4c2335cf46a24eec90420c856a4890bfeab43a2970a2ddbc8a1c24dc"
+    },
+    {
+      "name": "Puzzles Lib",
+      "filename": "PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "url": "https://edge.forgecdn.net/files/7140/307/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "sha256": "305c828c171a5b52867b56686665b525bcf286018496ece81f376806794ba914"
+    },
+    {
+      "name": "Ranged Weapon API",
+      "filename": "ranged_weapon_api-neoforge-2.3.3+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7291/834/ranged_weapon_api-neoforge-2.3.3%2b1.21.1.jar",
+      "sha256": "49f439f6b771aeecebeeacc1e920761ba75a8da6ce71026e18412af06ec66405"
+    },
+    {
+      "name": "[NoCube's] Realm RPG: Treasure Balloons",
+      "filename": "realmrpg_balloons-0.9.1-neoforge-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7252/486/realmrpg_balloons-0.9.1-neoforge-1.21.1.jar",
+      "sha256": "6979cba8ecc303d079b388293e3f90c48b47d53ad4f5387c6123aa5c20c36701"
+    },
+    {
+      "name": "Realm RPG: Fallen Adventurers",
+      "filename": "realmrpg_skeletons-1.1.0-neoforge-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/6058/914/realmrpg_skeletons-1.1.0-neoforge-1.21.1.jar",
+      "sha256": "8a688c2dbd03abd51b48fd09e1ec29de3afe54511cef8046a58c3396c6227388"
+    },
+    {
+      "name": "Re:Animal",
+      "filename": "reanimal-0.6.0.jar",
+      "url": "https://edge.forgecdn.net/files/8024/635/reanimal-0.6.0.jar",
+      "sha256": "36a7ac3783aa4451d271dbf65386027ceccfe5a583f47be35086e6d76008f575"
+    },
+    {
+      "name": "Recipe Essentials",
+      "filename": "recipeessentials-1.21-4.0.jar",
+      "url": "https://edge.forgecdn.net/files/6165/711/recipeessentials-1.21-4.0.jar",
+      "sha256": "d07d9267afc4386c4985d68c53d957cad3e76a177457135241e57fd136a802a2"
+    },
+    {
+      "name": "Reese's Sodium Options",
+      "filename": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+      "url": "https://edge.forgecdn.net/files/6091/21/reeses-sodium-options-neoforge-1.8.3%2bmc1.21.4.jar",
+      "sha256": "e00e960f9cae9ea411429fadaa48e2d778f8064667cf6aaee7ce88332813b0bf"
+    },
+    {
+      "name": "Regions Unexplored",
+      "filename": "regions-unexplored-0.6+beta4-neoforge-21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7826/194/regions-unexplored-0.6%2bbeta4-neoforge-21.1.jar",
+      "sha256": "5198d8b1407ee5bcdb20e6ffa00f32e0c7a136974ce7d34bc28c012d5aa7ac5f"
+    },
+    {
+      "name": "Relics (RPG Series)",
+      "filename": "relics-neoforge-1.3.0+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7690/267/relics-neoforge-1.3.0%2b1.21.1.jar",
+      "sha256": "55a7f34891e88a9d5371ede19a575da5bedea5770d7be0f552cddfb50e63c879"
+    },
+    {
+      "name": "Resourceful Config",
+      "filename": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "url": "https://edge.forgecdn.net/files/6467/772/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "sha256": "25b4f3502d25c535004acd4a9420272fff01d2f1e2df352239fec93fdab005d4"
+    },
+    {
+      "name": "Rogues & Warriors (RPG Series)",
+      "filename": "rogues-neoforge-2.7.0+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7690/262/rogues-neoforge-2.7.0%2b1.21.1.jar",
+      "sha256": "c73754afbd448b3320139a88d503845031bd2055b8a2037dde436e64620bc482"
+    },
+    {
+      "name": "Timeline",
+      "filename": "rpgtimeline-neoforge-1.21-2.0.4.1.jar",
+      "url": "https://edge.forgecdn.net/files/7678/437/rpgtimeline-neoforge-1.21-2.0.4.1.jar",
+      "sha256": "d41c5a97b1873f1d1eb86ef55ebd8e3318164135ff7739f16ce2e7f6344f0c45"
+    },
+    {
+      "name": "Runes",
+      "filename": "runes-neoforge-1.2.1+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7225/381/runes-neoforge-1.2.1%2b1.21.1.jar",
+      "sha256": "70a7348e3382ceb07350c1c826bde085f66e4870e7533247502ff1be67a05db4"
+    },
+    {
+      "name": "Saint's Dragons",
+      "filename": "saintsdragons-1.20.1-0.6.1-NEOFORGE-ALPHA-HOTFIX.jar",
+      "url": "https://edge.forgecdn.net/files/7695/988/saintsdragons-1.20.1-0.6.1-NEOFORGE-ALPHA-HOTFIX.jar",
+      "sha256": "2f82c260508a84f9823ded732f213acf0a7ffa336761d60ca0aa3ec1aa2632a1"
+    },
+    {
+      "name": "ScalableLux",
+      "filename": "ScalableLux-0.1.0.1+neoforge.1cb1e91-all.jar",
+      "url": "https://edge.forgecdn.net/files/6952/385/ScalableLux-0.1.0.1%2bneoforge.1cb1e91-all.jar",
+      "sha256": "74340a37af858014ecf66068054bed3ab778b22d24956d348a2ec2bc3c585cb5"
+    },
+    {
+      "name": "Searchables",
+      "filename": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "url": "https://edge.forgecdn.net/files/5831/692/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "sha256": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68"
+    },
+    {
+      "name": "Shared Advancements",
+      "filename": "sharedadvancements-neoforge-1.21.X-6.1.0.jar",
+      "url": "https://edge.forgecdn.net/files/7806/883/sharedadvancements-neoforge-1.21.X-6.1.0.jar",
+      "sha256": "003bad51dbe5b904498d46fe122f9facbc15092db8e0170fcbed9a4bc9519e1d"
+    },
+    {
+      "name": "Shield API",
+      "filename": "shield_api-neoforge-2.2.0.jar",
+      "url": "https://edge.forgecdn.net/files/7156/464/shield_api-neoforge-2.2.0.jar",
+      "sha256": "adbd8facfcaf318956d670ff3f0341c0d8e15e136ae9c00749a255e25a9c0194"
+    },
+    {
+      "name": "Shield Expansion",
+      "filename": "shieldexp-neoforge-1.21.1-1.4.1.jar",
+      "url": "https://edge.forgecdn.net/files/8054/624/shieldexp-neoforge-1.21.1-1.4.1.jar",
+      "sha256": "473e21856abbf1d37edce8310f9c1e894064a8e9b0b0086e2f12810ce5709364"
+    },
+    {
+      "name": "Shoulder Surfing Reloaded",
+      "filename": "ShoulderSurfing-NeoForge-1.21.1-4.22.10.jar",
+      "url": "https://edge.forgecdn.net/files/8043/996/ShoulderSurfing-NeoForge-1.21.1-4.22.10.jar",
+      "sha256": "6b6d6809834dbced93c11fe87579042fd6f65fadb67fb3b295ec44b410b598eb"
+    },
+    {
+      "name": "Silent Lib (silentlib)",
+      "filename": "silent-lib-1.21.1-neoforge-10.6.0.jar",
+      "url": "https://edge.forgecdn.net/files/7935/618/silent-lib-1.21.1-neoforge-10.6.0.jar",
+      "sha256": "e5676f940802af3b7f2c393dc6c74d6c68d657efca4135478c5b54ced06950d1"
+    },
+    {
+      "name": "Skill Tree (RPG Series)",
+      "filename": "skill_tree-neoforge-1.4.4+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7758/374/skill_tree-neoforge-1.4.4%2b1.21.1.jar",
+      "sha256": "721f2a6c9a6e24b42e64656a00549b01873e37d40abb177165782c9056642fda"
+    },
+    {
+      "name": "Sleep Tight",
+      "filename": "sleep_tight-1.21-1.4.1-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/7717/784/sleep_tight-1.21-1.4.1-neoforge.jar",
+      "sha256": "1e638e9e370f86cb80cd60a4d8032760aa48019e616c65ae40a89cc01808d38b"
+    },
+    {
+      "name": "Server Performance - Smooth Chunk Save",
+      "filename": "smoothchunk-1.21-4.1.jar",
+      "url": "https://edge.forgecdn.net/files/6296/628/smoothchunk-1.21-4.1.jar",
+      "sha256": "a79f06eaffe7e5b834620da3c2cdad782aeaf4f1f207d03f8b0228a20bab65e3"
+    },
+    {
+      "name": "Sodium",
+      "filename": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/6382/651/sodium-neoforge-0.6.13%2bmc1.21.1.jar",
+      "sha256": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
+    },
+    {
+      "name": "Sodium/Embeddium Dynamic Lights",
+      "filename": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/6044/477/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "sha256": "d78002d50865db928fbf2c17c716ffcbbd6d33bff88aa1f0f3a04152a2665e25"
+    },
+    {
+      "name": "Sodium Leaf Culling",
+      "filename": "sodiumleafculling-neoforge-1.0.1-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/6394/121/sodiumleafculling-neoforge-1.0.1-1.21.1.jar",
+      "sha256": "39c48261ae34a26fcfbf0b64303a5afcc205cb40bb70b88941fced268f600e12"
+    },
+    {
+      "name": "Sodium/Embeddium Options API",
+      "filename": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/6100/815/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+      "sha256": "a6b9114615e2fff97e1a99fbf9fae17b87baacb26b69dde2f423867b5932bc02"
+    },
+    {
+      "name": "Sodium/Embeddium Options Mod Compat",
+      "filename": "sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/6929/971/sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar",
+      "sha256": "a4eda890c1793d2e414babff209a3ac45a5046095f584a81f82e4ecf9c78ae03"
+    },
+    {
+      "name": "Sophisticated Backpacks",
+      "filename": "sophisticatedbackpacks-1.21.1-3.25.44.1736.jar",
+      "url": "https://edge.forgecdn.net/files/8034/895/sophisticatedbackpacks-1.21.1-3.25.44.1736.jar",
+      "sha256": "3115122c8f8b0fc1b20a9c227f389fddcdca180a8a43cc1c8e55a368e51416c2"
+    },
+    {
+      "name": "Sophisticated Core",
+      "filename": "sophisticatedcore-1.21.1-1.4.38.1847.jar",
+      "url": "https://edge.forgecdn.net/files/8046/952/sophisticatedcore-1.21.1-1.4.38.1847.jar",
+      "sha256": "461589e3eb8833795943df13b915e16769866e945d93dc781ca5c2f800837d41"
+    },
+    {
+      "name": "Sophisticated Storage",
+      "filename": "sophisticatedstorage-1.21.1-1.5.46.1717.jar",
+      "url": "https://edge.forgecdn.net/files/8034/906/sophisticatedstorage-1.21.1-1.5.46.1717.jar",
+      "sha256": "1c09b27a0e30cdeb25c3b9f6ae2201e162c9dc86a9565cdaf9910ad01f5c0952"
+    },
+    {
+      "name": "Soul Incursion",
+      "filename": "soul_incursion-1.1.3-neoforge-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/5943/113/soul_incursion-1.1.3-neoforge-1.21.1.jar",
+      "sha256": "e4953063626dee4c536c581700e290681c6dbba0d4db01270716b1467c775e54"
+    },
+    {
+      "name": "spark",
+      "filename": "spark-1.10.124-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/6225/208/spark-1.10.124-neoforge.jar",
+      "sha256": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db"
+    },
+    {
+      "name": "Spell Engine",
+      "filename": "spell_engine-neoforge-1.9.9+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7789/251/spell_engine-neoforge-1.9.9%2b1.21.1.jar",
+      "sha256": "9d7151b8b748a86910a32345967d40fe82a10326dcc3780978002c570b621563"
+    },
+    {
+      "name": "Spell Power Attributes",
+      "filename": "spell_power-neoforge-1.4.6+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7303/957/spell_power-neoforge-1.4.6%2b1.21.1.jar",
+      "sha256": "b5457fd85e36e839b5d18c215ac1d113ae5d3e1a8dbc48a342d906a93da9a380"
+    },
+    {
+      "name": "Starcatcher",
+      "filename": "starcatcher-2.3.9-NEOFORGE-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/8034/989/starcatcher-2.3.9-NEOFORGE-1.21.1.jar",
+      "sha256": "0522731cf552528e1dcb11d3792f1ec0aac01f69d71257dc3a56d89d6e6162e5"
+    },
+    {
+      "name": "Structure Layout Optimizer",
+      "filename": "structure_layout_optimizer-neoforge-1.0.12.jar",
+      "url": "https://edge.forgecdn.net/files/7439/136/structure_layout_optimizer-neoforge-1.0.12.jar",
+      "sha256": "ef8eb29c5c4f111c74a49d379843e4c2f51d11b28c8116a49be13636c83f4385"
+    },
+    {
+      "name": "Structure Pool API",
+      "filename": "structure_pool_api-neoforge-1.2.1+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7145/227/structure_pool_api-neoforge-1.2.1%2b1.21.1.jar",
+      "sha256": "c18460025b07bc05fdc95bf62621c6b56f45e4eeb1c319f12787f39eb9315ea9"
+    },
+    {
+      "name": "Structure Essentials",
+      "filename": "structureessentials-1.21.1-5.0.jar",
+      "url": "https://edge.forgecdn.net/files/7962/596/structureessentials-1.21.1-5.0.jar",
+      "sha256": "7ecb6c9d04e20a6803ba6e51dd226eaa289ba2c2c095248f3645222a8bfc1c8d"
+    },
+    {
+      "name": "Sweety's Archaeology",
+      "filename": "sweety_archaeology-1.0.9b-neoforge-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/6922/114/sweety_archaeology-1.0.9b-neoforge-1.21.1.jar",
+      "sha256": "3c224c81bf0c96d4ec4e625c56bbd7d5d65f5d83a9f889f3b880c9cd7caa3753"
+    },
+    {
+      "name": "Terra Entity",
+      "filename": "terra_entity-1.2.3.jar",
+      "url": "https://edge.forgecdn.net/files/7803/145/terra_entity-1.2.3.jar",
+      "sha256": "7f6ff1897339639863d7d11246c6fa8452cf43f6ae2c7253f939cc7e21b18848"
+    },
+    {
+      "name": "TerraBlender (NeoForge)",
+      "filename": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "url": "https://edge.forgecdn.net/files/6054/947/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "sha256": "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8"
+    },
+    {
+      "name": "TerraBlenderFix",
+      "filename": "terrablenderfix-neoforge-1.21.1-0.0.1.jar",
+      "url": "https://edge.forgecdn.net/files/6060/237/terrablenderfix-neoforge-1.21.1-0.0.1.jar",
+      "sha256": "ba484b465e46cf582db50622e2c61d150188668efe82810c9d586f5357b9aa3f"
+    },
+    {
+      "name": "The Undergarden",
+      "filename": "The_Undergarden-1.21.1-0.9.6.jar",
+      "url": "https://edge.forgecdn.net/files/7862/546/The_Undergarden-1.21.1-0.9.6.jar",
+      "sha256": "49e3db6ce2cf6864e9d45f0633de95bc3ef72cbd5ebffee493fca7198d30ccb0"
+    },
+    {
+      "name": "Too Fast",
+      "filename": "toofast-1.21.0-0.4.3.6.jar",
+      "url": "https://edge.forgecdn.net/files/6819/714/toofast-1.21.0-0.4.3.6.jar",
+      "sha256": "54852c9d395b4dc870d1c8a587e4fade9fb05474540ae4d3dd196663dd6a6114"
+    },
+    {
+      "name": "TooManyRecipeViewers (TMRV)",
+      "filename": "toomanyrecipeviewers-0.7.3+mc.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7983/494/toomanyrecipeviewers-0.7.3%2bmc.21.1.jar",
+      "sha256": "1b40971e4dc2dc29479eceace3354ef52fa960ea27c9948f68447ae9d92a36f5"
+    },
+    {
+      "name": "TrashSlot",
+      "filename": "trashslot-neoforge-1.21.1-21.1.10.jar",
+      "url": "https://edge.forgecdn.net/files/8019/502/trashslot-neoforge-1.21.1-21.1.10.jar",
+      "sha256": "9e1d31ba8b29d2ba2dbc558c5ec86dbfde8f7cd8bc0db2ab75e25e428780ae39"
+    },
+    {
+      "name": "Traveler's Compass",
+      "filename": "travelerscompass-neoforge-1.21.1-4.0.05.jar",
+      "url": "https://edge.forgecdn.net/files/8069/463/travelerscompass-neoforge-1.21.1-4.0.05.jar",
+      "sha256": "1af9b8ecd9302d1e6c05b72497e6deab99786c9fcc875f0569a388e920e56ff2"
+    },
+    {
+      "name": "Traveler's Titles (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "filename": "TravelersTitles-1.21.1-NeoForge-5.1.3.jar",
+      "url": "https://edge.forgecdn.net/files/6294/123/TravelersTitles-1.21.1-NeoForge-5.1.3.jar",
+      "sha256": "f7d6811b58a432e4d7f0e80bfcc48210f7a8da251d1c3e528a73c26d0f2a56ed"
+    },
+    {
+      "name": "Traveler Tool Belt",
+      "filename": "travelertoolbelt-neoforge-1.21.1-1.0.1.jar",
+      "url": "https://edge.forgecdn.net/files/7672/295/travelertoolbelt-neoforge-1.21.1-1.0.1.jar",
+      "sha256": "856381dd93be4050f27d4b8f37acb37827b0965b95ac4afdab29b127f885d124"
+    },
+    {
+      "name": "HT's TreeChop",
+      "filename": "TreeChop-1.21.1-neoforge-0.19.3.jar",
+      "url": "https://edge.forgecdn.net/files/6254/465/TreeChop-1.21.1-neoforge-0.19.3.jar",
+      "sha256": "2a5ec9cca187b4a031e9dd7e5eec8d0872f7d2bc355d88bda633021fa7eb71b0"
+    },
+    {
+      "name": "Trimmed",
+      "filename": "trimmed-neo-1.21-3.0.0.jar",
+      "url": "https://edge.forgecdn.net/files/5424/737/trimmed-neo-1.21-3.0.0.jar",
+      "sha256": "06ad8575ab8bb3eb367a57bd6c9253eb466ffc7f5f23bd31a2c0312f48ad883f"
+    },
+    {
+      "name": "Unusual End",
+      "filename": "unusualend-2.2.1.jar",
+      "url": "https://edge.forgecdn.net/files/6896/554/unusualend-2.2.1.jar",
+      "sha256": "1f52de53a1bb345ef4dfc922aad0035f1b57026ad4be1bc67eed8fb6dfd06637"
+    },
+    {
+      "name": "ViewBoard",
+      "filename": "viewboard-neoforge-1.21.1-1.1.1.jar",
+      "url": "https://edge.forgecdn.net/files/7984/711/viewboard-neoforge-1.21.1-1.1.1.jar",
+      "sha256": "91fbc6fc14caaf04196fbeb0fe0fdcde2dfe7384d71b4ae7c621d2f719d4f8c1"
+    },
+    {
+      "name": "Waystones",
+      "filename": "waystones-neoforge-1.21.1-21.1.32.jar",
+      "url": "https://edge.forgecdn.net/files/8056/467/waystones-neoforge-1.21.1-21.1.32.jar",
+      "sha256": "d4abcb7eee9e6e7dfe08b3f5e986c6337064a204dad4399496aa8a6c1c9c01de"
+    },
+    {
+      "name": "Weather Refined",
+      "filename": "WeatherRefind-neoforge-1.21.1-v1.4.jar",
+      "url": "https://edge.forgecdn.net/files/8001/568/WeatherRefind-neoforge-1.21.1-v1.4.jar",
+      "sha256": "f34428b1d432077bf9862252a5aad2d61c2bf0cf35c8c2e6af3ff41f42596bef"
+    },
+    {
+      "name": "Wizards (RPG Series)",
+      "filename": "wizards-neoforge-2.7.1+1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/7695/841/wizards-neoforge-2.7.1%2b1.21.1.jar",
+      "sha256": "d021e0ebcd77637ac706e3471e916cb771a808c46bafb22e1f1b20ac3bb9d77e"
+    },
+    {
+      "name": "World Play Time",
+      "filename": "worldplaytime-1.2.2-1.21-NEOFORGE.jar",
+      "url": "https://edge.forgecdn.net/files/5430/837/worldplaytime-1.2.2-1.21-NEOFORGE.jar",
+      "sha256": "6c8a98a6d9183afa4e96900dc6f91b79f6bb01ffddb19155b37081d26fa4e365"
+    },
+    {
+      "name": "Xaero's Minimap",
+      "filename": "xaerominimap-neoforge-1.21.1-26.3.0.jar",
+      "url": "https://edge.forgecdn.net/files/8424/576/xaerominimap-neoforge-1.21.1-26.3.0.jar",
+      "sha256": "3ee7a14bf90976eb6eb86adeeb8318dd4e6c2a30c2b04bdf7a6198e5830c5850"
+    },
+    {
+      "name": "Xaero's World Map",
+      "filename": "xaeroworldmap-neoforge-1.21.1-1.43.0.jar",
+      "url": "https://edge.forgecdn.net/files/8424/490/xaeroworldmap-neoforge-1.21.1-1.43.0.jar",
+      "sha256": "b1ce7b0e47ab3a01976625c9a635acc5fc5e4d5252015b30b7985b2844e0e12c"
+    },
+    {
+      "name": "Xaero's Maps x Waystones",
+      "filename": "xmxw-2.10.1+1.21.1-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/8046/405/xmxw-2.10.1%2b1.21.1-neoforge.jar",
+      "sha256": "8c79770e747ab61117e685ef720f46167727a0271d5f0a62e1a506cf36f9c26e"
+    },
+    {
+      "name": "YetAnotherConfigLib",
+      "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/7437/845/yet_another_config_lib_v3-3.8.2%2b1.21.1-neoforge.jar",
+      "sha256": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
+    },
+    {
+      "name": "Yori3o's Grappling Hooks",
+      "filename": "yo_hooks-4.7.0beta.jar",
+      "url": "https://edge.forgecdn.net/files/8052/955/yo_hooks-4.7.0beta.jar",
+      "sha256": "03195acf4e3ed487f3db52de5dd65781ac2f7bb01b978040fd341b6abc2a5e0e"
+    },
+    {
+      "name": "YUNG's API (NeoForge) [1.20.4-1.21.1 ONLY]",
+      "filename": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "url": "https://edge.forgecdn.net/files/6715/463/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "sha256": "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca"
+    },
+    {
+      "name": "YUNG's Better End Island (NeoForge)",
+      "filename": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "url": "https://edge.forgecdn.net/files/6300/968/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "sha256": "8005f1ea798d09fc05dad07a21ed1f393a523a718197cdbd37b1ce6d9a17e4a4"
+    }
+  ],
+  "config_overrides": []
+}
