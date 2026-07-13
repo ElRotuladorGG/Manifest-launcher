@@ -366,24 +366,6 @@
       "sha256": "32c7be498962d54b28dfb902c1509596442048a3ae72bd3f7884ab853d0e4464"
     },
     {
-      "name": "Create",
-      "filename": "create-1.21.1-6.0.10.jar",
-      "url": "https://edge.forgecdn.net/files/7963/363/create-1.21.1-6.0.10.jar",
-      "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
-    },
-    {
-      "name": "Create Stuff 'N Additions",
-      "filename": "create-stuff-additions1.21.1_v2.1.2.jar",
-      "url": "https://edge.forgecdn.net/files/8070/658/create-stuff-additions1.21.1_v2.1.2.jar",
-      "sha256": "1a2498dfca89d1608471429af8e1ea28c1ae307569d4bffbccb119655745b7fc"
-    },
-    {
-      "name": "Create Better FPS",
-      "filename": "createbetterfps-1.21.1-1.1.4.jar",
-      "url": "https://edge.forgecdn.net/files/7951/368/createbetterfps-1.21.1-1.1.4.jar",
-      "sha256": "f0080f5cb186bf9f785dc5510babab94d97adc7918952cff780d2c5fadf2ac9a"
-    },
-    {
       "name": "Cupboard",
       "filename": "cupboard-1.21-3.5.jar",
       "url": "https://edge.forgecdn.net/files/7746/488/cupboard-1.21-3.5.jar",
