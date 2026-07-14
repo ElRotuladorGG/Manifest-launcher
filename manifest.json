@@ -1146,6 +1146,12 @@
       "sha256": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68"
     },
     {
+      "name": "Server Menu",
+      "filename": "servermenu-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods/servermenu-1.0.0.jar",
+      "sha256": "10cc34a5d2b0806f8be7b87e6f528b11a51fe8575f4516f28aebcf1b562734e7"
+    },
+    {
       "name": "Shared Advancements",
       "filename": "sharedadvancements-neoforge-1.21.X-6.1.0.jar",
       "url": "https://edge.forgecdn.net/files/7806/883/sharedadvancements-neoforge-1.21.X-6.1.0.jar",
