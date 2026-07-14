@@ -1147,9 +1147,9 @@
     },
     {
       "name": "Server Menu",
-      "filename": "servermenu-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods/servermenu-1.0.0.jar",
-      "sha256": "10cc34a5d2b0806f8be7b87e6f528b11a51fe8575f4516f28aebcf1b562734e7"
+      "filename": "servermenu-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods/servermenu-1.0.1.jar",
+      "sha256": "1a0a2d28ddc5a90dfeb51edf1930b14a81e6b9a57484a12e3b3dcc7c24c86cf7"
     },
     {
       "name": "Shared Advancements",
