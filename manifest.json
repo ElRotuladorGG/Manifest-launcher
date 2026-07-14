@@ -510,12 +510,6 @@
       "sha256": "71e7b47bd88c9c210d7c06fe5276736fc2e225e869778216537d584e6d1faf24"
     },
     {
-      "name": "FancyMenu",
-      "filename": "fancymenu_neoforge_3.9.0_MC_1.21.1.jar",
-      "url": "https://edge.forgecdn.net/files/8032/709/fancymenu_neoforge_3.9.0_MC_1.21.1.jar",
-      "sha256": "0d562ad4b89b962082210258bebd8db39dba8b8218ad6d8cbb4d023fd811161c"
-    },
-    {
       "name": "Farsight [Forge/Neo]",
       "filename": "farsight-1.21.1-4.5.jar",
       "url": "https://edge.forgecdn.net/files/7016/590/farsight-1.21.1-4.5.jar",
@@ -744,12 +738,6 @@
       "sha256": "a9b14170f2eeb323261c14bf40137ae78920ce2d61d52c85cdccc45bd9f37c2c"
     },
     {
-      "name": "Konkrete",
-      "filename": "konkrete_neoforge_1.9.9_MC_1.21.jar",
-      "url": "https://edge.forgecdn.net/files/5453/385/konkrete_neoforge_1.9.9_MC_1.21.jar",
-      "sha256": "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd"
-    },
-    {
       "name": "Kotlin for Forge",
       "filename": "kotlinforforge-5.11.0-all.jar",
       "url": "https://edge.forgecdn.net/files/7471/280/kotlinforforge-5.11.0-all.jar",
@@ -874,12 +862,6 @@
       "filename": "maxhealthfix-neoforge-1.21.1-21.1.4.jar",
       "url": "https://edge.forgecdn.net/files/5824/111/maxhealthfix-neoforge-1.21.1-21.1.4.jar",
       "sha256": "762f7ecc02070781119ba50d82c79a5d8c512bb8c78f6dfae0bcc667f7430105"
-    },
-    {
-      "name": "Melody",
-      "filename": "melody_neoforge_1.0.10_MC_1.21.jar",
-      "url": "https://edge.forgecdn.net/files/5453/382/melody_neoforge_1.0.10_MC_1.21.jar",
-      "sha256": "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871"
     },
     {
       "name": "Metal Bundles",
