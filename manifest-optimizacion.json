@@ -3,6 +3,7 @@
   "minecraft_version": "26.2",
   "loader": "fabric",
   "loader_version": "0.19.3",
+  "java_version": 25,
   "server_ip": "UPCsm.aternos.me:25565",
   "mods": [
     {
