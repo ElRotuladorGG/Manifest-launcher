@@ -1,7 +1,7 @@
-version: 1.2.0
+version: 1.2.1
 files:
-  - url: ServerLauncher Setup 1.2.0.exe
-    sha512: kZze8igzuyBgvVQ+q3+3M68BJCO6ebM7h3H3F6UBkJS6RR+U2+c/yAo9YBuR2chgWfV7dj5Geu1wz0KTgmBNsg==
-path: ServerLauncher Setup 1.2.0.exe
-sha512: kZze8igzuyBgvVQ+q3+3M68BJCO6ebM7h3H3F6UBkJS6RR+U2+c/yAo9YBuR2chgWfV7dj5Geu1wz0KTgmBNsg==
-releaseDate: '2026-07-17T03:05:25.280Z'
+  - url: ServerLauncher Setup 1.2.1.exe
+    sha512: ZFQDHwi49gE1Dr97WdxyIaNw0y5IQZrJB1IjoaHrle0km/BaE5ofGu69vg9Mxi/AXCrDr8GQ/2pbBlhBGEuEcw==
+path: ServerLauncher Setup 1.2.1.exe
+sha512: ZFQDHwi49gE1Dr97WdxyIaNw0y5IQZrJB1IjoaHrle0km/BaE5ofGu69vg9Mxi/AXCrDr8GQ/2pbBlhBGEuEcw==
+releaseDate: '2026-07-17T03:13:31.479Z'
