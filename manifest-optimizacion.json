@@ -1,0 +1,184 @@
+{
+  "modpack_version": "1.0.0",
+  "minecraft_version": "26.2",
+  "loader": "fabric",
+  "loader_version": "0.19.3",
+  "server_ip": "UPCsm.aternos.me:25565",
+  "mods": [
+    {
+      "name": "asynclogger-2.1.2+26.1.2-fabric",
+      "filename": "asynclogger-2.1.2+26.1.2-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/asynclogger-2.1.2%2B26.1.2-fabric.jar",
+      "sha256": "9079d269af11801c07e08418b0a5c52d0801650732b51eca1053178f69d9c43b"
+    },
+    {
+      "name": "BadOptimizations-2.4.1-26.2-fabric",
+      "filename": "BadOptimizations-2.4.1-26.2-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/BadOptimizations-2.4.1-26.2-fabric.jar",
+      "sha256": "06cee46d81d3a0afb8e993dfbe4b990a3be92f52abde3590cc396490cb6eb4d2"
+    },
+    {
+      "name": "bbe-fabric-1.3.7+mc26.2",
+      "filename": "bbe-fabric-1.3.7+mc26.2.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/bbe-fabric-1.3.7%2Bmc26.2.jar",
+      "sha256": "6a92718b5a2bf2c3fad78d0aef9a29f6cd9bb92bb5c8de45263dfa5e6010b6e0"
+    },
+    {
+      "name": "boosters-1.3.0+26.2-fabric",
+      "filename": "boosters-1.3.0+26.2-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/boosters-1.3.0%2B26.2-fabric.jar",
+      "sha256": "1cce1a557c8f1633eeb3446360a338b41284840f550b87671c76af2339e37f23"
+    },
+    {
+      "name": "cloth-config-26.2.155",
+      "filename": "cloth-config-26.2.155.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/cloth-config-26.2.155.jar",
+      "sha256": "def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349"
+    },
+    {
+      "name": "Clumps-fabric-26.2-26.2.1",
+      "filename": "Clumps-fabric-26.2-26.2.1.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/Clumps-fabric-26.2-26.2.1.jar",
+      "sha256": "dc9544190abfb65a3c9ddc5dad1523c9dfc5a732344f528d908b950894398e8c"
+    },
+    {
+      "name": "entityculling-fabric-1.10.5-mc26.2",
+      "filename": "entityculling-fabric-1.10.5-mc26.2.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/entityculling-fabric-1.10.5-mc26.2.jar",
+      "sha256": "05a36decbb1bbb0f785d974068c0d9c191975e0d8d637e1eb1f2f6bb84eab05a"
+    },
+    {
+      "name": "fabric-api-0.154.2+26.2",
+      "filename": "fabric-api-0.154.2+26.2.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/fabric-api-0.154.2%2B26.2.jar",
+      "sha256": "05e6c3cc98bc534aef7f1f0483c0bbfd1454bd1cf37751871f8ff1a66e9d7446"
+    },
+    {
+      "name": "fabric-language-kotlin-1.13.12+kotlin.2.4.0",
+      "filename": "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/fabric-language-kotlin-1.13.12%2Bkotlin.2.4.0.jar",
+      "sha256": "36c5dd8b728e3470d2882ae63119b93a20500fc0ea6f5c945c12bf65b5ab1832"
+    },
+    {
+      "name": "ferritecore-9.0.0-fabric",
+      "filename": "ferritecore-9.0.0-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/ferritecore-9.0.0-fabric.jar",
+      "sha256": "213966c72ed967acc7392beb28a866fba301ff56b9976c2e7801c2db7de6bf22"
+    },
+    {
+      "name": "fism+26.2-1.0.4",
+      "filename": "fism+26.2-1.0.4.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/fism%2B26.2-1.0.4.jar",
+      "sha256": "aa17f4a1779dc9856a92171f862326b0ce166835d94ad89478b78ca5de84e8e9"
+    },
+    {
+      "name": "ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric",
+      "filename": "ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
+      "sha256": "1b4b17fc4150481447201152604688c74726d6631c9a626dd21f2c5e2b3df1ac"
+    },
+    {
+      "name": "fzzy_config-0.7.6+26.2",
+      "filename": "fzzy_config-0.7.6+26.2.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/fzzy_config-0.7.6%2B26.2.jar",
+      "sha256": "bbd4bbab6f381e123db5031ed051a9ad2d1a5ad4fb6ccf64d983ba416745e551"
+    },
+    {
+      "name": "getittogetherdrops-fabric-26.1.1-1.5.1",
+      "filename": "getittogetherdrops-fabric-26.1.1-1.5.1.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/getittogetherdrops-fabric-26.1.1-1.5.1.jar",
+      "sha256": "e7a4866cbdc201a2929787498153db8e089546b1300862266294f2f7be40910a"
+    },
+    {
+      "name": "Gnetum-4.4.1+26.2-fabric",
+      "filename": "Gnetum-4.4.1+26.2-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/Gnetum-4.4.1%2B26.2-fabric.jar",
+      "sha256": "737bc6ffaf1ecc5cb26ef5e1399c0571ee15427d0b2cdab8b7aa78719349f144"
+    },
+    {
+      "name": "ImmediatelyFast-Fabric-1.16.2+26.2",
+      "filename": "ImmediatelyFast-Fabric-1.16.2+26.2.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/ImmediatelyFast-Fabric-1.16.2%2B26.2.jar",
+      "sha256": "40da44194cd1dabdc5399c8e3c46253b6a568c2f4f9e2363a3b3a0069531d770"
+    },
+    {
+      "name": "iris-fabric-1.11.2+mc26.2",
+      "filename": "iris-fabric-1.11.2+mc26.2.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/iris-fabric-1.11.2%2Bmc26.2.jar",
+      "sha256": "df0e2ccddaea17b191eda32b21c979e131bc9d4ef4f831113b50b461fc4a3804"
+    },
+    {
+      "name": "Ixeris-4.5.2+26.2-fabric",
+      "filename": "Ixeris-4.5.2+26.2-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/Ixeris-4.5.2%2B26.2-fabric.jar",
+      "sha256": "3fcf5b1d9ee3b103b75fa83f50179974c6001a38699b862cb09bc3d7a43314e0"
+    },
+    {
+      "name": "lithium-fabric-0.25.2+mc26.2",
+      "filename": "lithium-fabric-0.25.2+mc26.2.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/lithium-fabric-0.25.2%2Bmc26.2.jar",
+      "sha256": "7588d4a76989498f56e11e63a2b1170fff476e8d9c4aac94e310b3e7db469e0f"
+    },
+    {
+      "name": "modernfix-5.27.19-build.1",
+      "filename": "modernfix-5.27.19-build.1.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/modernfix-5.27.19-build.1.jar",
+      "sha256": "f9d0b89ae51e4436466ded48c45fec3528b3cca05799cb29837cf0ae81a08a9d"
+    },
+    {
+      "name": "modmenu-20.0.1",
+      "filename": "modmenu-20.0.1.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/modmenu-20.0.1.jar",
+      "sha256": "81bfbca06012c57c74949072f2ffaad06360badee4d00dc59bfaeac80dd24bd8"
+    },
+    {
+      "name": "moreculling-fabric-26.2-1.8.0",
+      "filename": "moreculling-fabric-26.2-1.8.0.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/moreculling-fabric-26.2-1.8.0.jar",
+      "sha256": "a83784d07ed36efb1643a68b31c6b836afd46398f54c5b8e1c382741a09fb28a"
+    },
+    {
+      "name": "noxesium-fabric-3.2.3",
+      "filename": "noxesium-fabric-3.2.3.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/noxesium-fabric-3.2.3.jar",
+      "sha256": "13469139fac1fdbb32d7c2165cffbf99be983eca9454a6141f91d73398662bd6"
+    },
+    {
+      "name": "particle_core-0.3.3+26.2",
+      "filename": "particle_core-0.3.3+26.2.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/particle_core-0.3.3%2B26.2.jar",
+      "sha256": "1f07d37347e1e9b8a54e65c5aea90c358b567ac34bed0624d66c401e2b736ef8"
+    },
+    {
+      "name": "reeses-sodium-options-fabric-2.2.3+mc26.2",
+      "filename": "reeses-sodium-options-fabric-2.2.3+mc26.2.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/reeses-sodium-options-fabric-2.2.3%2Bmc26.2.jar",
+      "sha256": "49b68a887f5691b805efbe73c4e6e622cda5c322431ef68f81c8953de4041911"
+    },
+    {
+      "name": "ScalableLux-fabric-0.3.0-alpha.0.3-all",
+      "filename": "ScalableLux-fabric-0.3.0-alpha.0.3-all.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/ScalableLux-fabric-0.3.0-alpha.0.3-all.jar",
+      "sha256": "8d76cf27589dcc8e16c34ba0709a9ee2134cfcd60b90862f8cbd204ea9b6c7c8"
+    },
+    {
+      "name": "sodium-extra-fabric-0.9.3+mc26.2",
+      "filename": "sodium-extra-fabric-0.9.3+mc26.2.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/sodium-extra-fabric-0.9.3%2Bmc26.2.jar",
+      "sha256": "cdef04ad810aeeefab4bfefbc7bc4859b06a2be651d5dab7e055f7e661f84a50"
+    },
+    {
+      "name": "sodium-fabric-0.9.1+mc26.2",
+      "filename": "sodium-fabric-0.9.1+mc26.2.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/sodium-fabric-0.9.1%2Bmc26.2.jar",
+      "sha256": "de406c7a0ca5e748dfbe44740278400882a44e3109e2584b243ec02d4003344b"
+    },
+    {
+      "name": "zfastnoise-1.0.39+26.2",
+      "filename": "zfastnoise-1.0.39+26.2.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-optimizacion/zfastnoise-1.0.39%2B26.2.jar",
+      "sha256": "956af27edffe0a1620bcecaa485a8b74eed0d82597ff496fe6063355ec216332"
+    }
+  ],
+  "config_overrides": []
+}
