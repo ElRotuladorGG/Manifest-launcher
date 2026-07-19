@@ -1,0 +1,286 @@
+{
+  "modpack_version": "1.0.0",
+  "minecraft_version": "1.20.1",
+  "loader": "forge",
+  "loader_version": "47.4.10",
+  "java_version": 17,
+  "server_ip": "CAMBIAR_IP_O_DOMINIO:25565",
+  "mods": [
+    {
+      "name": "AI-Improvements-1.20-0.5.2",
+      "filename": "AI-Improvements-1.20-0.5.2.jar",
+      "url": "https://cdn.modrinth.com/data/DSVgwcji/versions/eJihmpNQ/AI-Improvements-1.20-0.5.2.jar",
+      "sha256": "575a4a8e00f982c064d54bb3e73e5cda2d14414de054a471a3daf3f58bdf560a"
+    },
+    {
+      "name": "alltheleaks-1.1.1+1.20.1-forge",
+      "filename": "alltheleaks-1.1.1+1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-linked-hardcore/alltheleaks-1.1.1%2B1.20.1-forge.jar",
+      "sha256": "7b8e945da294b745e6aed9f88f28e232a767e032d7c2b8137a8ef36421d9fb33"
+    },
+    {
+      "name": "almanac-1.20.x-forge-1.0.2",
+      "filename": "almanac-1.20.x-forge-1.0.2.jar",
+      "url": "https://cdn.modrinth.com/data/Gi02250Z/versions/DnzrwvfD/almanac-1.20.x-forge-1.0.2.jar",
+      "sha256": "b8e0b42329c11739201d132bc99720e8205badc4ce862b30e4eec04b833e3419"
+    },
+    {
+      "name": "alternate_current-mc1.20-1.7.0",
+      "filename": "alternate_current-mc1.20-1.7.0.jar",
+      "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/kC6SY4Zp/alternate_current-mc1.20-1.7.0.jar",
+      "sha256": "9dfa5365ef170323612d6ada820b7cac12e05135f00f16d0f627488426f59565"
+    },
+    {
+      "name": "betterchunkloading-1.20.1-5.4",
+      "filename": "betterchunkloading-1.20.1-5.4.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-linked-hardcore/betterchunkloading-1.20.1-5.4.jar",
+      "sha256": "86ae160bdd974452e0198e27d473d43b25d6df8b0abebee95d6381ae90339caa"
+    },
+    {
+      "name": "CarbonConfig-1.20-1.2.8.2",
+      "filename": "CarbonConfig-1.20-1.2.8.2.jar",
+      "url": "https://cdn.modrinth.com/data/1jDdpgcc/versions/YUiukM5n/CarbonConfig-1.20-1.2.8.2.jar",
+      "sha256": "abb7cfdf1eac1cd0e7551151aff6157e64ced2d0afc382f1db2fe91d352d942a"
+    },
+    {
+      "name": "chloride-FORGE-mc1.20.1-v1.7.5",
+      "filename": "chloride-FORGE-mc1.20.1-v1.7.5.jar",
+      "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/sKb384Nw/chloride-FORGE-mc1.20.1-v1.7.5.jar",
+      "sha256": "ed964374effd0c196b01c0a5ed4f275fccecbc6c1f540bbafe44926ce5bcc4fe"
+    },
+    {
+      "name": "chunksending-1.20.1-2.8",
+      "filename": "chunksending-1.20.1-2.8.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-linked-hardcore/chunksending-1.20.1-2.8.jar",
+      "sha256": "54207d488545db565838bad97db7978800f5171e02c4ab7741b9ee5cd8ab5001"
+    },
+    {
+      "name": "Chunky-1.3.146",
+      "filename": "Chunky-1.3.146.jar",
+      "url": "https://cdn.modrinth.com/data/fALzjamp/versions/4FTDk9wv/Chunky-1.3.146.jar",
+      "sha256": "996a3c9b53e6c0e0850fb9e78d3546d2c37a1b789ddaf529b17e4fe62ab23141"
+    },
+    {
+      "name": "cloth-config-11.1.136-forge",
+      "filename": "cloth-config-11.1.136-forge.jar",
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar",
+      "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
+    },
+    {
+      "name": "Clumps-forge-1.20.1-12.0.0.4",
+      "filename": "Clumps-forge-1.20.1-12.0.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/nAHGB5ls/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "sha256": "8af01712c0dc32cebaff31795ca6d223fddff2ea9b1f5efbd9c3a586a0dacbc0"
+    },
+    {
+      "name": "connectivity-1.20.1-7.6",
+      "filename": "connectivity-1.20.1-7.6.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-linked-hardcore/connectivity-1.20.1-7.6.jar",
+      "sha256": "fbfa83da5a6f5717d34068af5283ebbb9f9a2474482bc818f588cd1bdbc11acd"
+    },
+    {
+      "name": "CrashAssistant-forge-1.19-1.20.1-1.11.3",
+      "filename": "CrashAssistant-forge-1.19-1.20.1-1.11.3.jar",
+      "url": "https://cdn.modrinth.com/data/ix1qq8Ux/versions/fMyzWEoh/CrashAssistant-forge-1.19-1.20.1-1.11.3.jar",
+      "sha256": "87b3ca336ce3690791c4a0b988dd856633395835ed430c81f923fbfdfc109a09"
+    },
+    {
+      "name": "CullLessLeaves-Reforged-1.20.1-1.0.5",
+      "filename": "CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+      "url": "https://cdn.modrinth.com/data/qthuEuVy/versions/wPOb8yEG/CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+      "sha256": "b91ca5cd028b1c919e28851b984edd61874d44ad8038cdeee87315d2656cb292"
+    },
+    {
+      "name": "cupboard-1.20.1-3.5",
+      "filename": "cupboard-1.20.1-3.5.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-linked-hardcore/cupboard-1.20.1-3.5.jar",
+      "sha256": "68ac8d4df915d7610eca62edc7ad33e9fe6e938701766739a34f71abfc9bd20d"
+    },
+    {
+      "name": "embeddium-0.3.31+mc1.20.1",
+      "filename": "embeddium-0.3.31+mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar",
+      "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
+    },
+    {
+      "name": "entityculling-forge-1.9.5-mc1.20.1",
+      "filename": "entityculling-forge-1.9.5-mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/ZqOeqW60/entityculling-forge-1.9.5-mc1.20.1.jar",
+      "sha256": "8f80f3953fc988d8c6b4a88035441cad631fea87a413267526b64543890c02b0"
+    },
+    {
+      "name": "fastasyncworldsave-1.20.1-2.6",
+      "filename": "fastasyncworldsave-1.20.1-2.6.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-linked-hardcore/fastasyncworldsave-1.20.1-2.6.jar",
+      "sha256": "31283f2d8ad9462cb9619cc1bd2e61afa24939b91dcf46c87d5495e3c61207f7"
+    },
+    {
+      "name": "Fastload-Reforged-mc1.20.1-3.4.0",
+      "filename": "Fastload-Reforged-mc1.20.1-3.4.0.jar",
+      "url": "https://cdn.modrinth.com/data/kCpssoSb/versions/5caSj7kt/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+      "sha256": "038a5fa1c044d5afae22502ca1444eeb1a700d34a224996c25f233524ae35a7a"
+    },
+    {
+      "name": "ferritecore-6.0.1-forge",
+      "filename": "ferritecore-6.0.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
+      "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
+    },
+    {
+      "name": "getittogetherdrops-forge-1.20-1.3",
+      "filename": "getittogetherdrops-forge-1.20-1.3.jar",
+      "url": "https://cdn.modrinth.com/data/T0OUgf8P/versions/csPzTtJp/getittogetherdrops-forge-1.20-1.3.jar",
+      "sha256": "01e07848b9f741c713bc5b96469a4fbacf950c1285a65de2b153c32474dbdd1f"
+    },
+    {
+      "name": "gpumemleakfix-1.20.1-1.8",
+      "filename": "gpumemleakfix-1.20.1-1.8.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-linked-hardcore/gpumemleakfix-1.20.1-1.8.jar",
+      "sha256": "a7019442f1b07b1a4a875fe404d04d162905cc7fd42e0b3c843aefc7b39efc46"
+    },
+    {
+      "name": "harichunk-mc1.20.1-1.0.5",
+      "filename": "harichunk-mc1.20.1-1.0.5.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-linked-hardcore/harichunk-mc1.20.1-1.0.5.jar",
+      "sha256": "c3a4ad82f9476af8535ae4809802dd12c16bcc3e7f58556b29ffa68c648caeb7"
+    },
+    {
+      "name": "ImmediatelyFast-Forge-1.5.4+1.20.4",
+      "filename": "ImmediatelyFast-Forge-1.5.4+1.20.4.jar",
+      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/OomXW3xp/ImmediatelyFast-Forge-1.5.4%2B1.20.4.jar",
+      "sha256": "da781a31b2c8d8a845ed48c89b6463f1df3f2c655de10d8d4f5bed8123ff68a8"
+    },
+    {
+      "name": "immersive_optimization-forge-1.20.1-0.1.4",
+      "filename": "immersive_optimization-forge-1.20.1-0.1.4.jar",
+      "url": "https://cdn.modrinth.com/data/vNZgQmjg/versions/x7rjIeqE/immersive_optimization-forge-1.20.1-0.1.4.jar",
+      "sha256": "a5bbd50671a9c4b5ba33d1e710fe8e78d095e7c957aeba4fe292f84e66f52256"
+    },
+    {
+      "name": "kotlinforforge-4.12.0-all",
+      "filename": "kotlinforforge-4.12.0-all.jar",
+      "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/Zsh14XeQ/kotlinforforge-4.12.0-all.jar",
+      "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
+    },
+    {
+      "name": "KryptonReforged-0.2.3",
+      "filename": "KryptonReforged-0.2.3.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-linked-hardcore/KryptonReforged-0.2.3.jar",
+      "sha256": "9b281428d0e7560b7b6e74cdc808c0ffd7a8e662ba84d1a12a6616b49cedec10"
+    },
+    {
+      "name": "leaky-1.20.1-2.3",
+      "filename": "leaky-1.20.1-2.3.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-linked-hardcore/leaky-1.20.1-2.3.jar",
+      "sha256": "0d28b10d6b6f41750e3cea8a0764ceb7d5a919535e2c2630c3ba060005752361"
+    },
+    {
+      "name": "letmedespawn-1.20.x-forge-1.5.0",
+      "filename": "letmedespawn-1.20.x-forge-1.5.0.jar",
+      "url": "https://cdn.modrinth.com/data/vE2FN5qn/versions/1VmupN41/letmedespawn-1.20.x-forge-1.5.0.jar",
+      "sha256": "c6be3d9a62234d96d302369ac0a0ee238bdc0cf1b7f7280532d4365e9fabc09e"
+    },
+    {
+      "name": "limitedchunks-1.20.1-4.1",
+      "filename": "limitedchunks-1.20.1-4.1.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-linked-hardcore/limitedchunks-1.20.1-4.1.jar",
+      "sha256": "5ff4d22551dcd74680f5da79c9055faae44dfc0c5348c273447200e464eeac59"
+    },
+    {
+      "name": "lmft-1.0.4+1.20.1-forge",
+      "filename": "lmft-1.0.4+1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/XJdD8eB6/lmft-1.0.4%2B1.20.1-forge.jar",
+      "sha256": "73b0799239f7748ae8050c5409c56a7099df60649c1f982c1c597c68aaedcb3a"
+    },
+    {
+      "name": "Log-Begone-Forge-1.20.1-1.0.8",
+      "filename": "Log-Begone-Forge-1.20.1-1.0.8.jar",
+      "url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/HEJGfa5J/Log-Begone-Forge-1.20.1-1.0.8.jar",
+      "sha256": "7ac59d4a83c7841f46d1182b626f7b0d229b9159b8ec1a63d7a7dd40fc817adc"
+    },
+    {
+      "name": "memoryleakfix-forge-1.17+-1.1.5",
+      "filename": "memoryleakfix-forge-1.17+-1.1.5.jar",
+      "url": "https://cdn.modrinth.com/data/NRjRiSSD/versions/3w0IxNtk/memoryleakfix-forge-1.17%2B-1.1.5.jar",
+      "sha256": "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd"
+    },
+    {
+      "name": "modernfix-forge-5.26.2+mc1.20.1",
+      "filename": "modernfix-forge-5.26.2+mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/Uvlhuprw/modernfix-forge-5.26.2%2Bmc1.20.1.jar",
+      "sha256": "e9f00f787a78a976b8493eafeee63ff08fadb31bcb0a1e938d7b940d17ac70ae"
+    },
+    {
+      "name": "modfixer-0.0.5",
+      "filename": "modfixer-0.0.5.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-linked-hardcore/modfixer-0.0.5.jar",
+      "sha256": "91de051ad76d9f42afc00982c414e6be05dffdec57a4ef6f2a24173e5a877c9f"
+    },
+    {
+      "name": "noisium-forge-2.3.0+mc1.20-1.20.1",
+      "filename": "noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar",
+      "sha256": "b0b020250c81e8cce7776c3dc8f7085f269e2007570d5fbd492c4497ad60685c"
+    },
+    {
+      "name": "oculus-mc1.20.1-1.8.0",
+      "filename": "oculus-mc1.20.1-1.8.0.jar",
+      "url": "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar",
+      "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"
+    },
+    {
+      "name": "recipeessentials-1.20.1-4.0",
+      "filename": "recipeessentials-1.20.1-4.0.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-linked-hardcore/recipeessentials-1.20.1-4.0.jar",
+      "sha256": "eb0ff236212f83cfb04b39c72678282a1b964a5cfcb0cecb314e953f03347f14"
+    },
+    {
+      "name": "ruok-forge_1.20.1_Pre-Release_6-1.7.4",
+      "filename": "ruok-forge_1.20.1_Pre-Release_6-1.7.4.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-linked-hardcore/ruok-forge_1.20.1_Pre-Release_6-1.7.4.jar",
+      "sha256": "4f293723b1ac7e9b691c9deedfa1844398c666388275f11a6465a0abb420d6dd"
+    },
+    {
+      "name": "servercore-forge-1.5.2+1.20.1",
+      "filename": "servercore-forge-1.5.2+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/rx1c7m6q/servercore-forge-1.5.2%2B1.20.1.jar",
+      "sha256": "d9ad4f456b6c36bac17a71cd12935fdccae69ca1e1fcd33857210758cb58e586"
+    },
+    {
+      "name": "smoothboot(reloaded)-mc1.20.1-0.0.4",
+      "filename": "smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/z53V2L4P/versions/HkfL3iGO/smoothboot%28reloaded%29-mc1.20.1-0.0.4.jar",
+      "sha256": "5a0d2682493ffa7b140a7b81f0d1e70c7536c97969397cf9e718e31391b5b9d5"
+    },
+    {
+      "name": "sodiumoptionsapi-forge-1.0.10-1.20.1",
+      "filename": "sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/d0EFLitO/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "sha256": "37ec0b6248f04e856e6e5ba2066c4ded9981ce128282a9b45cdb10b67b9c8415"
+    },
+    {
+      "name": "starlight-1.1.2+forge.1cda73c",
+      "filename": "starlight-1.1.2+forge.1cda73c.jar",
+      "url": "https://cdn.modrinth.com/data/iRfIGC1s/versions/cNa0vkNj/starlight-1.1.2%2Bforge.1cda73c.jar",
+      "sha256": "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500"
+    },
+    {
+      "name": "structureessentials-1.20.1-4.8",
+      "filename": "structureessentials-1.20.1-4.8.jar",
+      "url": "https://raw.githubusercontent.com/ElRotuladorGG/Manifest-launcher/main/mods-linked-hardcore/structureessentials-1.20.1-4.8.jar",
+      "sha256": "fdc7cdf075d4d32bbc96760be0695aee88d0e635eeab5da3e2e7777cb08135c3"
+    },
+    {
+      "name": "vanillin-forge-1.20.1-1.1.3",
+      "filename": "vanillin-forge-1.20.1-1.1.3.jar",
+      "url": "https://cdn.modrinth.com/data/6qTrsXCy/versions/szOuf0j1/vanillin-forge-1.20.1-1.1.3.jar",
+      "sha256": "e2c5c712c6e41d71e2184b40914504914abb56826a4e8371bb1b929ee9482164"
+    }
+  ],
+  "config_overrides": [
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.7.1 (2).zip",
+      "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/836bPNGo/ComplementaryReimagined_r5.7.1.zip"
+    }
+  ]
+}
